@@ -1,7 +1,7 @@
 ---
 type: project
 status: active
-last-updated: 2026-08-25
+last-updated: 2026-10-01
 tags: [project, master-list]
 ---
 
@@ -13,6 +13,7 @@ tags: [project, master-list]
 | kenfa-2.0 | live | test.kenfa.id (Hostinger hPanel) |
 | crypto-bot | jalan | Freqtrade futures, Bitget/Hyperliquid, ConfluenceTrend v8 |
 | farming suite | jalan | alibaba/bluk/xyris/mekithil/qoder, catch-all sefy.my.id → Gmail IMAP |
+| Noir App | jalan (pause) | asisten suara full voice-to-voice; Flutter + Go; APK debug jadi 2026-10-01; butuh Picovoice key + LLM creds; deploy STB pending |
 
 ## Infrastruktur pendukung
 - **Warp rotator** `~/.9router-warp/` — 50 akun, wireproxy SOCKS5 :51001, 9Router v16+, provider openai-compatible-opencode-free, auto-switch 1x 429 + 60s cooldown.
