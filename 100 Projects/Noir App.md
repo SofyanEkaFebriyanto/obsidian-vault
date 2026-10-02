@@ -33,6 +33,11 @@ Asisten suara full voice-to-voice (tanpa teks sama sekali), ala JARVIS. Mode ful
 ## Status 2026-10-02 (update sore)
 - **Web UI LIVE**: `http://100.84.6.21:8080` di Chrome HP (via Tailscale). STT sempat gagal diam-diam karena HTTP bukan secure context → fix via `chrome://flags` → "Insecure origins treated as secure" → `http://100.84.6.21:8080` → relaunch. Sekarang ngobrol lancar.
 - **Agent VERIFIED**: commit `4b86e5d` ter-deploy di STB. Sofyan tes voice ("cek uptime STB") — Noir pakai tool beneran dan jawab angka yang sesuai. Bukan ngarang.
+- **F-12 SELESAI** (commit `368f223`): memori fakta jangka panjang — tiap percakapan selesai, LLM ekstrak fakta (preferensi, proyek, rencana) → SQLite → disuntik ke system prompt sesi berikut. `/v1/chat/completions` tetap stateless.
+- **F-13 SELESAI** (commit `368f223`): "Tentang Noir" — GET/PUT/DELETE `/v1/persona` + `persona.html` (link kecil di bawah avatar). Lihat/edit/reset persona, tersimpan di STB.
+- **Blueprint + PRD diupdate**: status fase, pivot web, agent v1, wake word Porcupine → openWakeWord ("hey jarvis").
+- **Deploy F-12/F-13 ke STB BELUM**: `git pull` + build + restart (Sofyan pegang).
+- **GitHub tanpa kode**: SSH key `noir-vm-push` terdaftar — push langsung, tidak perlu device code lagi.
 - **Picovoice MATI**: free tier ditutup total 30 Jun 2026, tidak ada tier non-komersial. Request trial Sofyan ditolak. Migrasi ke openWakeWord ("hey jarvis") dipilih, riset selesai, implementasi di-PAUSE saat pivot ke web.
 - VM reset / rebuild APK / bug TTS: lihat catatan di bawah (masih valid).
 
@@ -44,6 +49,8 @@ Asisten suara full voice-to-voice (tanpa teks sama sekali), ala JARVIS. Mode ful
 - **Backend LIVE di STB** (100.84.6.21): service systemd `noir-brain` aktif, `/health` OK, WS `ws://100.84.6.21:8080/ws`. Deploy `c06a675` ke STB: `git pull && go build -o /opt/noir-brain/noir-brain ./cmd/server && sudo systemctl restart noir-brain`.
 
 ## Yang masih dibutuhkan / berikutnya
+- Deploy F-12/F-13 ke STB (git pull + build + restart).
+- F-14 proactive ping — butuh keputusan pola notifikasi dari Sofyan (notifikasi browser vs pull).
 - Lanjutan openWakeWord ("hey jarvis") kalau APK dilanjut lagi (working tree parsial ada di `~/workspace/noir-app/noir-mobile/`, uncommitted).
 - Konektor ala Muse (Gmail/Kalender/dsb.) untuk noir-app — level berikutnya setelah STB-local solid.
 - Test install APK baru di HP (kemarin gagal "problem parsing package" — kemungkinan download corrupt; cek ukuran 174 MB). Saat ini fokus web.
