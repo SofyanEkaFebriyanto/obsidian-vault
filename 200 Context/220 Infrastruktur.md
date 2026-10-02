@@ -18,10 +18,12 @@ Peta infrastruktur jaringan/server yang dipakai lintas proyek. Dari agent memory
 
 ## Inventaris STB (audit 2026-10-02 via SSH)
 - **OS**: Ubuntu 26.04 (Resolute Raccoon), kernel 6.18.22-ophub, aarch64. Uptime 3 hari, load rendah.
-- **Spek**: 4 core ARMv8, RAM 1.7 GB (terpakai ~1 GB), disk 6.5 GB — **terpakai 72% (sisa 1.9 GB)**, perlu diawasi.
+- **Spek**: 4 core ARMv8, RAM 1.7 GB (terpakai ~1 GB), disk 6.5 GB.
+- **Optimasi disk 2026-10-02 ~23:50** (atas permintaan Sofyan, tanpa sentuh 9router/tunneling): apt clean + npm cache + go build cache → **72% → 65% (bebas ~500 MB, sisa 2.3 GB)**. Docker prune: 0B. Tidak disentuh: `.opencode` (244 MB, instalasi tool — tanya dulu), data user, noir-brain.
 - **Sistem**: CasaOS (app management + gateway). User: root + sofyan.
 - **Docker (6 kontainer)**: qbittorrent, jellyfin, jellyseerr, syncthing, pihole, uptimekuma — stack media + DNS adblock + monitoring.
 - **noir-brain**: service systemd aktif, `:8080`, binary+data di `/opt/noir-brain` (17 MB), repo di `/root/noir-app`.
+- **9router + tunneling SEHAT** ( diverifikasi, tidak disentuh): wireproxy `:51001` listen, proses 9router/rotator.py/cloudflared/wireproxy jalan, tailscale online (100.84.6.21), cloudflared tunnel `9router-stb.yml` jalan.
 - **Port penting**: 80 (casaos), 53 (pihole DNS), 139/445 (samba), 8080 (noir-brain), 22000/8384 (syncthing), 51001 (warp SOCKS5 rotator).
 - **Lainnya**: rclone.service jalan, Go toolchain di `/root/go`, node22 di `/opt`.
 | VPS SG 13.250.28.88 (ubuntu) | Main VPS; melayani 9router.sefy.my.id; Paperclip AI (:3100) |
