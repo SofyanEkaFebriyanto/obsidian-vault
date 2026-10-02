@@ -36,7 +36,8 @@ Asisten suara full voice-to-voice (tanpa teks sama sekali), ala JARVIS. Mode ful
 - **F-12 SELESAI** (commit `368f223`): memori fakta jangka panjang — tiap percakapan selesai, LLM ekstrak fakta (preferensi, proyek, rencana) → SQLite → disuntik ke system prompt sesi berikut. `/v1/chat/completions` tetap stateless.
 - **F-13 SELESAI** (commit `368f223`): "Tentang Noir" — GET/PUT/DELETE `/v1/persona` + `persona.html` (link kecil di bawah avatar). Lihat/edit/reset persona, tersimpan di STB.
 - **Blueprint + PRD diupdate**: status fase, pivot web, agent v1, wake word Porcupine → openWakeWord ("hey jarvis").
-- **Deploy F-12/F-13 ke STB BELUM**: `git pull` + build + restart (Sofyan pegang).
+- **F-12/F-13 DEPLOYED** 2026-10-02 malam via SSH (commit `368f223`, verified `/v1/persona` OK).
+- **F-14 SELESAI + DEPLOYED** (2026-10-02 ~23:37, commit `cf5fbf8`): proactive ping in-app only — ticker 45 mnt, LLM mutusin sapa/diem, broadcast WS (toast + auto-speak bila idle), jam sepi 23–6 WIB. Deploy langsung oleh Noir via SSH (git pull → build → restart); verified: `/health` OK, `/v1/persona` OK, log `proactive: aktif`, `/v1/chat/completions` non-stream OK (jawab "halo").
 - **GitHub tanpa kode**: SSH key `noir-vm-push` terdaftar — push langsung, tidak perlu device code lagi.
 - **Picovoice MATI**: free tier ditutup total 30 Jun 2026, tidak ada tier non-komersial. Request trial Sofyan ditolak. Migrasi ke openWakeWord ("hey jarvis") dipilih, riset selesai, implementasi di-PAUSE saat pivot ke web.
 - VM reset / rebuild APK / bug TTS: lihat catatan di bawah (masih valid).
