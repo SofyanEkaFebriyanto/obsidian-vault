@@ -12,11 +12,10 @@ Web portofolio statis milik Sofyan Eka Febriyanto di `sefy.my.id`, dihosting di 
 # Portfolio (sefy.my.id)
 
 - **URL**: `https://sefy.my.id` (+ `www.sefy.my.id`)
-- **Stack**: HTML + CSS + JS murni (tanpa framework), dark theme, animasi scroll-reveal.
-- **Konten**: hero (nama lengkap), tentang, fakta singkat, 4 proyek (noir-app, url-shortener, api-ujikom, kenfa via test.kenfa.id), stack, kontak (email + GitHub).
+- **Stack**: Next.js 14 + Tailwind (static export), Bricolage Grotesque + Spectral fonts.
+- **Konten**: hero (foto profil IG + nama), values, featured project, notes, now, about, projects, contact.
 - **Hosting**: STB — file di `/opt/portfolio/`, service systemd `portfolio.service` (python http.server, `127.0.0.1:8090`). Ingress via tunnel Cloudflare STB.
-- **Source lokal**: `~/workspace/portfolio/` (`index.html`, `style.css`, `app.js`). Belum ada repo GitHub — pertimbangkan backup.
-- **Deploy**: copy 3 file ke `/opt/portfolio/` (server serve dari disk, tanpa restart).
-- **Riwayat**: dibuat 2026-10-03 atas permintaan Sofyan. Koreksi: "Mahasiswa — PKL" → "Siswa SMK", semua sebutan PKL dihapus.
+- **Source**: repo `SofyanEkaFebriyanto/vibe-portofolio` (clone lokal `~/workspace/vibe-portofolio/`). Build: `npm run build` dengan `output: 'export'` + `trailingSlash: true` → deploy isi `out/` ke `/opt/portfolio/`.
+- **Riwayat**: 2026-10-03: versi HTML/CSS/JS buatan Noir (diganti). 2026-10-04: ganti ke repo vibe-portofolio milik Sofyan + konten proyek asli + foto IG di hero. Jangan sebut status PKL di konten.
 
 Terkait: [[100 Projects/Noir App]], [[200 Context/220 Infrastruktur]]
