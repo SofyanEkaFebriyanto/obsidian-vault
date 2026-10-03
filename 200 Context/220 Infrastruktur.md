@@ -23,7 +23,8 @@ Peta infrastruktur jaringan/server yang dipakai lintas proyek. Dari agent memory
 - **Sistem**: CasaOS (app management + gateway). User: root + sofyan.
 - **Docker (6 kontainer)**: qbittorrent, jellyfin, jellyseerr, syncthing, pihole, uptimekuma — stack media + DNS adblock + monitoring.
 - **noir-brain**: service systemd aktif, `:8080`, binary+data di `/opt/noir-brain` (17 MB), repo di `/root/noir-app`.
-- **9router + tunneling SEHAT** ( diverifikasi, tidak disentuh): wireproxy `:51001` listen, proses 9router/rotator.py/cloudflared/wireproxy jalan, tailscale online (100.84.6.21), cloudflared tunnel `9router-stb.yml` jalan.
+- **9router + tunneling** (update 2026-10-03): 9Router **0.5.95** (npm global `/opt/npm-global`). **Insiden ~23:00**: service + binary cloudflared hilang misterius (bukan Noir/agent/cron) — diperbaiki (service recreate, binary download ulang) + **watchdog cron 5 menit** (`/opt/cloudflared-backup/watchdog.sh`, backup di `/opt/cloudflared-backup/`). Tunnel verified OK semua hostname.
+- **Portfolio**: service `portfolio.service` (`/opt/portfolio`, :8090) → `sefy.my.id` + `www.sefy.my.id` via tunnel.
 - **Port penting**: 80 (casaos), 53 (pihole DNS), 139/445 (samba), 8080 (noir-brain), 22000/8384 (syncthing), 51001 (warp SOCKS5 rotator).
 - **Lainnya**: rclone.service jalan, Go toolchain di `/root/go`, node22 di `/opt`.
 | VPS SG 13.250.28.88 (ubuntu) | Main VPS; melayani 9router.sefy.my.id; Paperclip AI (:3100) |

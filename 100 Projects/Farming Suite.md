@@ -18,6 +18,7 @@ Farming suite = kumpulan proyek farming akun/API key. Detail dari agent memory (
 | xyris-farm | HTTP | ~/Documents/project/ |
 | mekithil | Playwright + 2Captcha | ~/Documents/project/ |
 | qoder-farm | Qoder PAT farm | github fazulfi/qoder-farm; qodercli-wake @ /usr/local/bin v1.1.8, PAT via QODER_PERSONAL_ACCESS_TOKEN |
+| freeai-farmer | Bright Data sticky proxies | **TUNTAS 2026-10-03**: 750 akun dari 762 proxy (~98%). Script `/home/sofyan/freeai_farmer_stb.py`, output `/home/sofyan/out/freeai_accounts.jsonl`, 751 koneksi di 9Router |
 
 ## Infrastruktur
 - Email: catch-all sefy.my.id → Cloudflare email routing → Gmail IMAP.

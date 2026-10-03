@@ -15,7 +15,7 @@ Asisten suara full voice-to-voice (tanpa teks sama sekali), ala JARVIS. Mode ful
 - **Arsitektur**: Go/Gin backend (`noir-brain`), WebSocket realtime, SQLite memory. LLM via `BrainProvider` (default OpenAI-compatible streaming). **Agent loop**: LLM + tool calling (`internal/agent/`) — bisa eksekusi di STB (waktu, sysinfo, exec, read/write file, service). Client: Flutter Android (pause) + **web UI** (aktif, diserve dari backend via go:embed di `/`).
 - **Arsitektur audio (penting!)**: STT on-device (HP) → LLM terima/kirim TEKS → TTS on-device (HP). LLM tidak perlu "support TTS". Model bebas diganti selama API-nya OpenAI-compatible + streaming (`LLM_BASE_URL`, `LLM_API_KEY`, `LLM_MODEL` di `.env`). Web: STT = Web Speech API, TTS = speechSynthesis browser. **Catatan**: Web Speech API butuh secure context — akses via `http://100.84.6.21:8080` harus didaftarkan di `chrome://flags` → "Insecure origins treated as secure".
 - **Arsitektur audio (penting!)**: STT on-device (HP) → LLM terima/kirim TEKS → TTS on-device (HP). LLM tidak perlu "support TTS". Model bebas diganti selama API-nya OpenAI-compatible + streaming (`LLM_BASE_URL`, `LLM_API_KEY`, `LLM_MODEL` di `.env`).
-- **Model LLM**: `space-bunny` = Space Bunny Alpha (`stealth/space-bunny-alpha`, OpenRouter), stealth model rilis 23 Sep 2026, gratis selama preview, OpenAI-compatible + streaming. Catatan: reasoning tidak bisa dimatikan total → kadang terasa mikir dulu sebelum jawab.
+- **Model LLM**: `free/qwen3-8b` via gateway 9Router STB (diganti 2026-10-03 malam, sebelumnya `space-bunny`).
 - **Avatar states**: `idle → listening → thinking → speaking → idle`. 4 file MP4 lokal (`assets/avatar/*.mp4`), di-gitignore — tidak ikut push.
 - **Repo**: `SofyanEkaFebriyanto/noir-app`. Lokal: `~/workspace/noir-app/` (+ clone git persisten di `~/workspace/noir-app-git/`). Goal: `goal_11476b3f12cc`.
 - **Package**: `id.sefy.noir`, v1.0.0 (versionCode 1).
@@ -69,3 +69,7 @@ Asisten suara full voice-to-voice (tanpa teks sama sekali), ala JARVIS. Mode ful
 - Jangan rebuild tanpa perlu — APK yang sudah valid langsung dipakai.
 
 READBACK_OK 2026-10-01
+
+## Status 2026-10-03 (update malam)
+- **Model LLM → `free/qwen3-8b`** via gateway 9Router STB (`http://127.0.0.1:20128/v1`). Diganti Sofyan (dari space-bunny). Pelajaran: dia edit `/root/noir-app/noir-brain/.env` (repo), tapi service baca `/opt/noir-brain/.env` — disinkronkan + restart oleh Noir, verified via `/v1/chat/completions` ("Halo, ada yang bisa gw bantu?").
+- **9Router di-update 0.5.30 → 0.5.95** (`npm install -g 9router@latest`). DB di-backup dulu. Service restart, gateway + Noir end-to-end OK.
