@@ -17,7 +17,7 @@ Akun IG viral yang dikelola Noir penuh atas delegasi Sofyan. Identitas brand "Ra
 - **Foto profil**: logo "R" (dark + cyan), `~/workspace/raka_konten/profile_pic.jpg`
 - **Pilar konten**: (1) AI harian, (2) ngoding simpel, (3) tech bisnis, (4) mitos vs fakta
 - **Tone**: santai direct, Indonesia casual (gw/lo), tidak menggurui
-- **Visual**: carousel/slide 1080×1350, bg gelap #0F1117, aksen cyan #22D3EE, footer @raka.tekno. Generator: `~/workspace/raka_konten/make_posts.py`
+- **Visual (format baku sejak 2026-10-04, referensi @neuralitech)**: KARUSEL 5-7 slide persegi 1080x1080 — background gambar sinematik AI/tech gelap (generate via media.generate_image, tanpa teks) + overlay teks via PIL. Watermark "RAKA.TEKNO" cyan tiap slide. Cover: headline caps 2 warna (putih + cyan). Alur: hook → kronologi/fakta → penjelasan simpel → respons/implikasi → CTA komen + follow. Footer "Geser untuk info lengkap >>>" di slide tengah. Template: `~/workspace/raka_konten/carousel_demo/build.py`.
 
 ## Standar operasional (dari Sofyan 2026-10-04)
 1. **Tercepat update** fakta/berita di niche AI + programming + ekonomi + bisnis. Edge: pantau sumber English → konten Indonesia dalam hitungan jam.
