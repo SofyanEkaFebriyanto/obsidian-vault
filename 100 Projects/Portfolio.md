@@ -1,7 +1,7 @@
 ---
 type: project
 status: active
-last-updated: 2026-10-04
+last-updated: 2026-10-05
 ai-first: true
 tags: [portfolio, web, homelab]
 ---
@@ -24,6 +24,8 @@ Web portofolio statis milik Sofyan Eka Febriyanto di `sefy.my.id`, dihosting di 
   - 2026-10-04: dark mode (Tailwind class mode, toggle 🌙/☀️ di header, localStorage, default system, anti-flash script).
   - 2026-10-04: halaman Services (Backend APIs, Mobile Apps, Web Apps, AI Integration, Deploy & Self-hosting + proses 5 langkah + CTA homepage). Nav: About, Services, Notes, Projects, Now, Contact.
   - 2026-10-04: mobile-friendly — hamburger menu ☰ di HP, hero foto 144px + teks center, H1 responsif (text-3xl di mobile).
-- **Housekeeping (belum beres)**: perubahan lokal vibe-portofolio BELUM di-commit/push ke GitHub; `layout.tsx` masih pakai metadata base `sofyanekafebriyanto.my.id` (ganti ke `sefy.my.id`); audit klaim client-facing di Services (mis. "live 24/7 berbulan-bulan", "Android dan iOS") sebelum dianggap final.
+  - 2026-10-04: SEO + favicon selesai, push ke GitHub `c973a93` (dark mode, Services, mobile-friendly, SEO, favicon, notes, proyek asli, avatar). Metadata base diganti ke `https://sefy.my.id`; canonical + OG + Twitter card + schema.org Person; `/services` masuk sitemap; `app/apple-icon.png` baru (200 OK).
+- **Housekeeping (sisa)**: audit klaim client-facing di Services ("live 24/7 berbulan-bulan", "Android dan iOS", "available for select freelance projects") + audit Resume/About/Notes untuk klaim stale — sebelum dianggap final.
+- **2026-10-05**: de-slop pass (skill `no-ai-slop` + adaptasi Indonesia) ke 7 notes MDX — 3 pola mikro diperbaiki (binary contrast di self-host-everything & why-i-document-my-learning, colon reveal di one-brain-many-bodies). Notes lain sudah cukup manusiawi, tidak diubah.
 
 Terkait: [[100 Projects/Noir App]], [[200 Context/220 Infrastruktur]]

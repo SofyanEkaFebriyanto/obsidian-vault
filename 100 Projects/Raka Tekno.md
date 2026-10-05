@@ -1,7 +1,7 @@
 ---
 type: project
 status: active
-last-updated: 2026-10-04
+last-updated: 2026-10-05
 tags: [instagram, content, branding]
 ---
 
@@ -24,8 +24,11 @@ Akun IG viral yang dikelola Noir penuh atas delegasi Sofyan. Identitas brand "Ra
 2. **100% fakta, no hoax**: verifikasi ≥2 sumber independen sebelum posting; bedakan "dilaporkan" vs "terkonfirmasi"; angka harus ada sumber; kalau ragu → skip.
 
 ## Otomasi
-- **Cron** `raka-tekno-news-watch`: tiap 8 jam — scan berita, verifikasi, buat + posting maks 1 konten ke @raka.tekno, lapor ke chat.
-- Riwayat posting: 2026-10-04 — 3 postingan pembuka (intro, "AI nggak bakal gantiin programmer", "kenapa tech PHK massal").
+- **Cron** `raka-tekno-news-watch`: tiap 4 jam (dinaikkan dari 8 jam, 2026-10-04) — scan berita, verifikasi, buat + posting maks 1 konten ke @raka.tekno, lapor ke chat.
+- **De-slop pass (2026-10-05)**: skill `no-ai-slop` (github.com/petergyang/no-ai-slop, MIT) + adaptasi Indonesia `~/workspace/skills/no-ai-slop/ADAPTASI-ID.md` — wajib sebelum render final (step 4b cron). Aturan Sofyan: berlaku untuk SEMUA konten publik, bukan cuma Raka.
+- **Insiden 2026-10-05**: IG HTTP 429 (rate limit) di run 14:54 — karusel Huawei–Qualcomm gagal publish 3x; reda di run 18:54 dan berhasil posting. Pelajaran: posting tiap 4 jam rawan throttle; kalau 429 berulang, pertimbangkan turunkan frekuensi.
+- Riwayat posting: 2026-10-04 — 3 postingan pembuka (intro, "AI nggak bakal gantiin programmer", "kenapa tech PHK massal"); karusel "Kenapa AI Kadang Ngarang Jawaban?"; "ORANG DALAM OPENAI RESIGN: 'CULTURE-NYA BROKEN'" (DeElTXpj6kl).
+- 2026-10-05 — Instinct $1B raise (18106208816098100); Trump "Super Intelligence Force" (DeFcPQwE1P8); Altman "AI religious force" (DeF3wjhj7vS); Altman Politico "dunia harus terima hal-hal buruk" (18637969423024926); Huawei–Qualcomm patent deal (DeHJxJBj5dZ).
 
 ## Akun utama (terpisah)
 @fya.n9 = personal branding Sofyan (fakta diri sendiri). Jangan campur strategi/tone dengan @raka.tekno.
