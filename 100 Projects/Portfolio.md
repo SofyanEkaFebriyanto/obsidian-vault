@@ -27,5 +27,6 @@ Web portofolio statis milik Sofyan Eka Febriyanto di `sefy.my.id`, dihosting di 
   - 2026-10-04: SEO + favicon selesai, push ke GitHub `c973a93` (dark mode, Services, mobile-friendly, SEO, favicon, notes, proyek asli, avatar). Metadata base diganti ke `https://sefy.my.id`; canonical + OG + Twitter card + schema.org Person; `/services` masuk sitemap; `app/apple-icon.png` baru (200 OK).
 - **Housekeeping (sisa)**: audit klaim client-facing di Services ("live 24/7 berbulan-bulan", "Android dan iOS", "available for select freelance projects") + audit Resume/About/Notes untuk klaim stale — sebelum dianggap final.
 - **2026-10-05**: de-slop pass (skill `no-ai-slop` + adaptasi Indonesia) ke 7 notes MDX — 3 pola mikro diperbaiki (binary contrast di self-host-everything & why-i-document-my-learning, colon reveal di one-brain-many-bodies). Notes lain sudah cukup manusiawi, tidak diubah.
+- **2026-10-05**: 2 notes baru — "Stop writing like AI" (install no-ai-slop + adaptasi Indonesia) dan "When port 443 stops working" (fix SSH via ProxyCommand). Pelajaran: pipeline MDX portfolio (next-mdx-remote + remark-gfm) CRASH pada inline code (backtick) dengan error `inTable` — jangan pakai backtick di notes.
 
 Terkait: [[100 Projects/Noir App]], [[200 Context/220 Infrastruktur]]
