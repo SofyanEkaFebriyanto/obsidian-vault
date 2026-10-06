@@ -1,8 +1,8 @@
 # Noir Memory
 
-_Auto-sync dari noir-brain (2026-10-06T00:42:11+07:00). Jangan edit manual — akan ditimpa._
+_Auto-sync dari noir-brain (2026-10-07T00:42:13+07:00). Jangan edit manual — akan ditimpa._
 
-Total 9 fakta.
+Total 16 fakta.
 
 - Sofyan memiliki STB yang menjalankan Armbian sebagai homelab untuk mengakses file, menjalankan perintah shell, menyimpan catatan, konfigurasi, dan skrip ringan. _(2026-10-04)_
 - Sofyan memiliki asisten AI bernama 'Noir' yang berfokus pada voice AI dan digunakan untuk menjalankan serta mengembangkan proyek-proyek. _(2026-10-04)_
@@ -13,3 +13,10 @@ Total 9 fakta.
 - Sofyan mengembangkan API UJIKOM menggunakan Laravel dengan 136 test case. _(2026-10-04)_
 - Sofyan memiliki domain pribadi sefy.my.id untuk portofolionya. _(2026-10-04)_
 - Sofyan cenderung berkomunikasi dalam bahasa Indonesia yang santai dan informal. _(2026-10-04)_
+- Sofyan adalah developer Laravel & Flutter yang sedang mendalami Go. _(2026-10-06)_
+- Sofyan menjalankan homelab berbasis STB dengan sistem operasi Armbian 24/7. _(2026-10-06)_
+- Sofyan mengembangkan proyek Noir, yaitu voice AI assistant. _(2026-10-06)_
+- Sofyan mengembangkan proyek kenfa-2.0, yaitu e-commerce live. _(2026-10-06)_
+- Sofyan mengembangkan proyek URL Shortener menggunakan Go dan React. _(2026-10-06)_
+- Sofyan membuat API UJIKOM berbasis Laravel dengan 136 test case. _(2026-10-06)_
+- Sofyan berkeinginan melatih kekompakan dalam tim. _(2026-10-06)_
