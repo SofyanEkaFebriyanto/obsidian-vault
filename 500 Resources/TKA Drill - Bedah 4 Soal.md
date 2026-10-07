@@ -5,7 +5,7 @@ tags: [tka, study, drill]
 
 # TKA Drill — Bedah 4 Soal yang Meleset
 
-Paket 2 (2026-10-02), skor 21/25. Gladi bersih Senin 5 Okt. Empat prinsip di bawah ini yang nentuin bedanya 84% vs 100%.
+Paket 2 (2026-10-02), skor 21/25. Gladi: 12–15 Okt. Empat prinsip di bawah ini yang nentuin bedanya 84% vs 100%.
 
 ## 1. Diskon bertingkat ≠ diskon dijumlah (soal no. 5)
 
@@ -46,7 +46,7 @@ Paket 2 (2026-10-02), skor 21/25. Gladi bersih Senin 5 Okt. Empat prinsip di baw
 2. tan β = 3√7/7
 3. sec β = 4/3
 
-**Pembahasan:** cos²β = 1 − 9/16 = 7/16 → cos β = √7/4 (β lancip, positif) → pernyataan 1 **benar**. tan β = sin/cos = (3/4)/(√7/4) = 3/√7 = 3√7/7 → pernyataan 2 **benar**. sec β = 1/cos = 4/√7 = 4√7/7 ≠ 4/3 → pernyataan 3 **salah**. Pola: **S–S–B**.
+**Pembahasan:** cos²β = 1 − 9/16 = 7/16 → cos β = √7/4 (β lancip, positif) → pernyataan 1 **benar**. tan β = sin/cos = (3/4)/(√7/4) = 3/√7 = 3√7/7 → pernyataan 2 **benar**. sec β = 1/cos = 4/√7 = 4√7/7 ≠ 4/3 → pernyataan 3 **salah**. Pola: **B–B–S**.
 
 ## 4. "Tetap sama" = cek 3 tahun berurutan, bukan 2 (soal no. 21)
 
@@ -79,4 +79,4 @@ Pernyataan yang BENAR adalah...
 
 ---
 
-Coba kerjain latihannya tanpa ngintip pembahasan dulu. Kalau ada yang masih meleset, itu topik yang perlu dibedah lagi sebelum Senin.
+Coba kerjain latihannya tanpa ngintip pembahasan dulu. Kalau ada yang masih meleset, itu topik yang perlu dibedah lagi sebelum gladi 12–15 Okt.
