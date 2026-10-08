@@ -37,6 +37,6 @@ Log harian posisi, observasi pasar, dan hasil bot Freqtrade.
 
 ### 2026-10-08
 - Setup / bias: XAUUSD M30 — swing baru, fib ditarik ulang (100% ~4.184,29 → 0% ~4.066,44). Harga retrace ke zona fib 75% (~4.154,83). Bias tetap bearish intraday.
-- Posisi: MANUAL (SMC discretionary, bukan EA) — SHORT XAUUSD 0,03 lot satu layer. Entry ~4.154,242 (di fib 75%) | TP ~4.066,847 (dekat fib 0%). SL: belum dikonfirmasi.
-- Hasil: RUNNING profit saat screenshot 18:55 WIB — harga ~4.128,42 → floating +~$25,8/oz (~+$77).
-- Catatan: entry time & SL menyusul dikonfirmasi ke Sofyan sebelum dimasukkan ke trade journal.
+- Posisi: MANUAL (SMC discretionary, bukan EA) — SHORT XAUUSD 0,03 lot satu layer. Entry: sell limit ke-hit @ 4.138,849 (09:03 WIB) | SL 4.145,242 | TP 4.066,847. R:R ~1:11,3 (risk $6,39/oz vs reward $72/oz).
+- Reason: struktur market bearish valid, fibo high→low M30, sell limit di golden zone.
+- Hasil: RUNNING profit saat screenshot 18:55 WIB — harga ~4.128,42 → floating +~$10,4/oz (~+$31). Tercatat di trade journal sebagai open position.
