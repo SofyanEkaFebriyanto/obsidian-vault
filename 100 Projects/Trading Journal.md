@@ -32,4 +32,11 @@ Log harian posisi, observasi pasar, dan hasil bot Freqtrade.
 - Setup / bias: XAUUSD M30 — selloff $4.226,97 → $4.104,09 (~$123), retracement ke zona fib 50–61,8% ($4.165–$4.180). Bias intraday bearish; short pantulan di premium.
 - Posisi: MANUAL (SMC discretionary, bukan EA) — SHORT XAUUSD sesi NY (~20:39 WIB). Entry ~4.171,85 | SL ~4.195,83 (di atas struktur fib 75%) | TP ~4.099,88 (dekat low fib 0% ~4.104,09). R:R ~1:3. Catatan: SL ~$24 = 240 pips, lebih lebar dari rule manual max 100 pips — sizing perlu dikonfirmasi agar risk tetap 3–10%. Aturan EA (1%/trade, lock 1 SL/sesi) tidak berlaku untuk trade manual.
 - Hasil: (running saat dicatat 20:41 WIB) harga ~4.161,4 → floating +~$10/oz (~0,44R). **CLOSED PROFIT 2026-10-07 ~19:00 WIB** — breakdown impulsif jebol $4.104 (low kemarin) dan menjemput TP1 (~$4.099, dekat fib 0%) lalu TP2 di fib -27% (~$4.070). SL tidak tersentuh.
+- Eksekusi: 0,03 lot satu layer. P&L tercatat di trade journal: **+$305,55** ((4.171,85−4.070) × 0,03 × 100). R:R terealisasi ~4,25R (risk $24/oz vs reward $101,85/oz).
 - Pelajaran: setup short pantulan di premium (retracement fib 50–61,8%) valid — disiplin nunggu harga datang ke zona, bukan kejar harga. Struktur bearish intraday (di bawah $4.235) + katalis yield 5,35%/DXY kuat = angin tailwind. Konfirmasi: TP2 -27% konsisten dengan rule fibo EA (TP Fib -0,27) — level ekstensi bekerja di kedua sistem.
+
+### 2026-10-08
+- Setup / bias: XAUUSD M30 — swing baru, fib ditarik ulang (100% ~4.184,29 → 0% ~4.066,44). Harga retrace ke zona fib 75% (~4.154,83). Bias tetap bearish intraday.
+- Posisi: MANUAL (SMC discretionary, bukan EA) — SHORT XAUUSD 0,03 lot satu layer. Entry ~4.154,242 (di fib 75%) | TP ~4.066,847 (dekat fib 0%). SL: belum dikonfirmasi.
+- Hasil: RUNNING profit saat screenshot 18:55 WIB — harga ~4.128,42 → floating +~$25,8/oz (~+$77).
+- Catatan: entry time & SL menyusul dikonfirmasi ke Sofyan sebelum dimasukkan ke trade journal.
