@@ -39,4 +39,5 @@ Log harian posisi, observasi pasar, dan hasil bot Freqtrade.
 - Setup / bias: XAUUSD M30 — swing baru, fib ditarik ulang (100% ~4.184,29 → 0% ~4.066,44). Harga retrace ke zona fib 75% (~4.154,83). Bias tetap bearish intraday.
 - Posisi: MANUAL (SMC discretionary, bukan EA) — SHORT XAUUSD 0,03 lot satu layer. Entry: sell limit ke-hit @ 4.138,849 (09:03 WIB) | SL 4.145,242 | TP 4.066,847. R:R ~1:11,3 (risk $6,39/oz vs reward $72/oz).
 - Reason: struktur market bearish valid, fibo high→low M30, sell limit di golden zone.
-- Hasil: RUNNING profit saat screenshot 18:55 WIB — harga ~4.128,42 → floating +~$10,4/oz (~+$31). Tercatat di trade journal sebagai open position.
+- Hasil: **CLOSED SL 2026-10-09 08:13 WIB** @ 4.145,242 (63,9 pip) → loss **-$19,18** ((4.145,242−4.138,849) × 0,03 × 100). Tercatat di trade journal sebagai closed position (status loss).
+- Pelajaran: setup tetap valid per rules manual (struktur bearish M30, golden zone, R:R 1:11,3 asimetris — win rate 10% pun masih breakeven). Gold rebound ~1% dari low 2 bulan ($4.067) di sesi Asia — dorongan odds Fed cut pudar + geopolitik (lihat gold alert) menyapu SL 4.145,242 sebelum arah turun kembali. Disiplin SL jalan sesuai sistem (loss terkontrol, risk 1R). Total 2 trade manual Okt: +$305,55 − $19,18 = **+$286,37**.
