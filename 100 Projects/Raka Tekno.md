@@ -29,6 +29,7 @@ Akun IG viral yang dikelola Noir penuh atas delegasi Sofyan. Identitas brand "Ra
 - **Insiden 2026-10-05**: IG HTTP 429 (rate limit) di run 14:54 — karusel Huawei–Qualcomm gagal publish 3x; reda di run 18:54 dan berhasil posting. Pelajaran: posting tiap 4 jam rawan throttle; kalau 429 berulang, pertimbangkan turunkan frekuensi.
 - Riwayat posting: 2026-10-04 — 3 postingan pembuka (intro, "AI nggak bakal gantiin programmer", "kenapa tech PHK massal"); karusel "Kenapa AI Kadang Ngarang Jawaban?"; "ORANG DALAM OPENAI RESIGN: 'CULTURE-NYA BROKEN'" (DeElTXpj6kl).
 - 2026-10-05 — Instinct $1B raise (18106208816098100); Trump "Super Intelligence Force" (DeFcPQwE1P8); Altman "AI religious force" (DeF3wjhj7vS); Altman Politico "dunia harus terima hal-hal buruk" (18637969423024926); Huawei–Qualcomm patent deal (DeHJxJBj5dZ).
+- **2026-10-10**: migrasi penuh ke moda.app (aturan default Sofyan 14:21, diterapkan 17:23) — alur `moda_bootstrap → brand_list → canvas_create 1080×1080 → canvas_apply_markup/slide → canvas_screenshot → export PNG`; PIL pensiun. Run hari ini: #8 pemecatan 3 peneliti keamanan OpenAI, #9 Manus raise $500M, #11 Waymo tutup pinjaman $5M (karusel pertama 100% Moda, DeTmsaKjOfA/). Run #12 (roundup "5 hal penting AI & tech") **gagal posting 3x HTTP 500** — total 8 upaya gagal sejak 18:54, diduga throttling IG; konten disimpan di `~/workspace/raka_konten/roundup-2-2026-10-10/`, counter tetap 11, retry otomatis 02:54.
 
 ## Akun utama (terpisah)
 @fya.n9 = personal branding Sofyan (fakta diri sendiri). Jangan campur strategi/tone dengan @raka.tekno.
