@@ -15,5 +15,6 @@ tags: [income, stock, ai]
 - **Scope lock** (akun multi-agent): Noir hanya edit/metadata/submit file miliknya sendiri. Ledger: `goals/penghasilan-dari-adobe-stock-contributor/hidden_files/noir-file-ledger.json`.
 - **Riwayat**:
   - 2026-10-13: akun selesai penuh (daftar csg8155@gmail.com, verifikasi email + SMS, W-8BEN valid, payout PayPal); batch 01–04 = 15 gambar Noir diajukan ke review (In review account-wide 37); 5 cron produksi harian dibuat.
+  - 2026-10-14: batch-06 2 file (rainforest, hands typing) stuck karena tombol Submit portal disabled seharian — pulih sendiri sore hari, masuk In review; batch-07 4 file (emerald-copper abstract, jogger sunrise, solar-panel, contract signing) di-upload + submit (In review account-wide: 42). Review tab Not accepted: 16 ditolak, 6 milik Noir (quality issues) — implikasi: fokus abstract/komposisi sederhana, photorealistic manusia dihentikan sementara. Temuan teknis: bulk Select-All "Include in submission" tidak persist server-side (scope-lock multi-agent wajib toggle per file).
 
 Terkait: goal `penghasilan-dari-adobe-stock-contributor`, [[100 Projects/Portfolio]]
