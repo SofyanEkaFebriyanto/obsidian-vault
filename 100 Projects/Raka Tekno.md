@@ -33,3 +33,14 @@ Akun IG viral yang dikelola Noir penuh atas delegasi Sofyan. Identitas brand "Ra
 
 ## Akun utama (terpisah)
 @fya.n9 = personal branding Sofyan (fakta diri sendiri). Jangan campur strategi/tone dengan @raka.tekno.
+
+## 2026-10-15 — 6 posting, counter 29 → 35
+- Run #30: roundup "5 hal penting AI & tech 12–15 Okt" (DefMughExdv).
+- Run #31: UE "tangkap" OpenAI & Anthropic — AI Act first enforcement (Defn6HCE6ws).
+- Run #32: Anthropic Q3 revenue $16,8B (+45% q/q).
+- Run #33: Apple vs OpenAI saling tuduh nyuri rahasia dagang (sidang 14 Okt).
+- Run #34: Jensen Huang — Nvidia bisa matiin keran chip AI berbahaya (Deg6JBZjxj1).
+- Run #35: Cohere mau akuisisi AISLE — AI pemburu bug.
+- HTTP 500 `instagram-cli` = false negative ke-8 dalam 6 hari (caption selalu ≤2100 char): feed check konfirmasi live, TIDAK retry. Hipotesis baru: limitasi CLI, bukan throttle akun.
+- Quirk Moda baru: `canvas_create` pakai `name` (bukan `title`); `canvas_screenshot` pakai array `pages`; `canvas_apply_markup` pakai `canvas_ref` + `page` (1-based, page:0 error).
+- Profil 14 Okt: 56 postingan, 0 followers, 0 following — mesin konten konsisten, engagement manual masih 0.
