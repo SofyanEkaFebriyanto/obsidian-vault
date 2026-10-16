@@ -24,6 +24,7 @@ Project note untuk tugas sekolah ujikom SMK: sistem peminjaman alat Laravel 12. 
 
 ## Recent Activity
 - 2026-08-26: Panel admin tuntas via CEO flow — bug fix enum+DetilPinjam typo, upload gambar, CRUD pengembalian admin, role-aware sidebar, form petugas. Log: [[400 Daily/Dev Logs/2026-08-26 - API-UJIKOM panel admin]]
+- 2026-10-16: Audit statis repo `SofyanEkaFebriyanto/api-ujikom` terhadap 3 PDF modul guru (API-UJIKOM.pdf 132 hal, Membuat_Hak_akses, Modul_Projek_Inventory) selesai — migrations, models, Form Requests, Resources, controllers, observers, seeders, routes, middleware, package utama sesuai spek. Tindakan: selaraskan wording respons 403 `IsAdmin.php`, `IsPetugas.php`, `IsPeminjam.php` dengan PDF; commit `dad2cac` (`fix: selaraskan pesan 403 middleware role dengan spek modul`) dipush ke `main`. Klarifikasi: `/laporan-peminjaman` untuk role admin+petugas (PDF hal. 126) — repo sudah benar. Log: [[400 Daily/Noir 2026-10-16]].
 
 ## Open items
 - [ ] Fitur ajukan-pengembalian sungguhan butuh migration nullable `petugas_id` (keputusan founder/guru).
