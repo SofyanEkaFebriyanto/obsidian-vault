@@ -41,5 +41,9 @@ Web portofolio statis milik Sofyan Eka Febriyanto di `sefy.my.id`, dihosting di 
 - **2026-10-15**: Noir Studio — `NOIR-CHARACTER-BIBLE.md` dibuat (karakter final: bukan kucing, tanpa tema commit/Git; niche masih draf). Jalur income technical writing (sampel dari repo URL shortener, tawaran jasa Fastwork/Projects) ditawarkan — menunggu keputusan Sofyan.
 - **2026-10-16**: @raka.tekno 6 karusel terbit (run #36–#41) — counter 35→41; @fya.n9 2 karusel (NVIDIA RTX Spark; timing hike Fed). HTTP 500 `instagram-cli` tetap false negative, SOP feed check dipertahankan.
 - **2026-10-16**: API-UJIKOM — audit statis repo `SofyanEkaFebriyanto/api-ujikom` vs 3 PDF modul selesai; wording 403 middleware role (IsAdmin/IsPetugas/IsPeminjam) diselaraskan spek; commit `dad2cac` dipush ke `main`. Lihat [[100 Projects/API-UJIKOM]].
+- **2026-10-17**: @raka.tekno 6 karusel terbit (run #42–#47: roundup, Anthropic RUU AI, EU AI Act RFI, Microsoft MAI-Base-2, GitHub Copilot retire, DeepSeek V4.1) — counter 41→47; body cron diperbaiki ke antislop + antislop-copywriting. @fya.n9 3 karusel (akuisisi BYAN Rp26,1T; systemd v262.1 + AI canary; Meta Muse Spark Open).
+- **2026-10-17**: Kenfa — revisi UI antislop 9 file (token accent-dark, kontras, copy, link mati, empty state) dipush ke branch `muse-agent` commit `b32ff6a` atas nama Noir (pengecualian eksplisit); rating stars product-reviews masih pending (di luar scope).
+- **2026-10-17**: API-UJIKOM — keputusan Sofyan: JANGAN pasang Filament, repo tetap murni REST API sesuai PDF; drill weekend Pra Ujikom siap (Drill A Sabtu, Drill B Minggu). Lihat [[100 Projects/API-UJIKOM]].
+- **2026-10-17**: Adobe Stock — batch review #1: 12 file direview (3 diterima, 9 ditolak; atribusi shared account belum pasti); produksi pause, recheck limit Senin 19 Okt 08:00. Lihat [[100 Projects/Adobe Stock]].
 
 Terkait: [[100 Projects/Noir App]], [[200 Context/220 Infrastruktur]]
