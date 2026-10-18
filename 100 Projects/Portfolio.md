@@ -45,5 +45,10 @@ Web portofolio statis milik Sofyan Eka Febriyanto di `sefy.my.id`, dihosting di 
 - **2026-10-17**: Kenfa — revisi UI antislop 9 file (token accent-dark, kontras, copy, link mati, empty state) dipush ke branch `muse-agent` commit `b32ff6a` atas nama Noir (pengecualian eksplisit); rating stars product-reviews masih pending (di luar scope).
 - **2026-10-17**: API-UJIKOM — keputusan Sofyan: JANGAN pasang Filament, repo tetap murni REST API sesuai PDF; drill weekend Pra Ujikom siap (Drill A Sabtu, Drill B Minggu). Lihat [[100 Projects/API-UJIKOM]].
 - **2026-10-17**: Adobe Stock — batch review #1: 12 file direview (3 diterima, 9 ditolak; atribusi shared account belum pasti); produksi pause, recheck limit Senin 19 Okt 08:00. Lihat [[100 Projects/Adobe Stock]].
+- **2026-10-18**: @raka.tekno 6 karusel terbit (run #48–#53: OpenCode breach, roundup 17–18 Okt, FTC vs OpenAI/Anthropic, Replit cabut dari Anthropic, Claude pecahkan kriptografi NSA 25 tahun, Anthropic junior dev 27%→9%) — counter 47→53. Sofyan komplain watermark badge "moda.app" → script `~/workspace/tools/moda-dewatermark.py` dipakai mulai #53; koreksi record: akun Moda = plan FREE (sefy@sefy.my.id), bukan paid — menunggu konfirmasi langganan Pro Sofyan.
+- **2026-10-18**: @fya.n9 3 karusel (emas minggu 19–23 Okt; World Bank revisi proyeksi RI 2026 4,7%→5,2%; Jusuf Hamka + konsorsium Rp5T borong saham + Danantara).
+- **2026-10-18**: domain baru sofyan.bond, sofyan.cyou, noirstudio.bond, noirstudio.cyou — semua konek Cloudflare; konektor Cloudflare (custom.cloudflare) menunggu token dari Sofyan; kartu billing Bright Data 9205 expired 10/26 (disampaikan ke Sofyan).
+- **2026-10-18**: Kantor AI SaaS — Letter "The QRIS Catch" terkirim ke Sofyan: QRIS tidak bisa auto-debit langganan (jalur manual invoice/link WA dulu); harga Rp299rb tervalidasi; keputusan domain + timing waitlist menunggu Sofyan.
+- **2026-10-18**: Adobe Stock — klaim batch review #2 tidak bisa diverifikasi (tidak disampaikan ke Sofyan); recheck + rekonsiliasi otomatis Senin 19 Okt 08:00. Lihat [[100 Projects/Adobe Stock]].
 
 Terkait: [[100 Projects/Noir App]], [[200 Context/220 Infrastruktur]]
