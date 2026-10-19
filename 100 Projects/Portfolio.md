@@ -50,5 +50,7 @@ Web portofolio statis milik Sofyan Eka Febriyanto di `sefy.my.id`, dihosting di 
 - **2026-10-18**: domain baru sofyan.bond, sofyan.cyou, noirstudio.bond, noirstudio.cyou — semua konek Cloudflare; konektor Cloudflare (custom.cloudflare) menunggu token dari Sofyan; kartu billing Bright Data 9205 expired 10/26 (disampaikan ke Sofyan).
 - **2026-10-18**: Kantor AI SaaS — Letter "The QRIS Catch" terkirim ke Sofyan: QRIS tidak bisa auto-debit langganan (jalur manual invoice/link WA dulu); harga Rp299rb tervalidasi; keputusan domain + timing waitlist menunggu Sofyan.
 - **2026-10-18**: Adobe Stock — klaim batch review #2 tidak bisa diverifikasi (tidak disampaikan ke Sofyan); recheck + rekonsiliasi otomatis Senin 19 Okt 08:00. Lihat [[100 Projects/Adobe Stock]].
+- **2026-10-19**: Kantor AI SaaS — landing `tim.sefy.my.id` LIVE (~01:00 WIB, deploy di STB: `/home/sofyan/kantor-landing/index.html`, systemd user sofyan python http.server :8095, ingress cloudflared, CNAME via konektor Cloudflare — DNS write pertama yang terverifikasi). Jalur GitHub Pages (mentok 2FA) dan Vercel (403 scope) ditinggalkan. Repo `SofyanEkaFebriyanto/kantor-ai-landing` dibuat manual sebagai backup source. Lihat [[100 Projects/Kantor AI]].
+- **2026-10-19**: API-UJIKOM — verifikasi 5 jebakan drill di repo atas pertanyaan Sofyan: semua sudah benar (wording 403 persis PDF, commit `dad2cac` di main) — repo 100% sesuai PDF untuk Tes Praktik 22 Okt. Lihat [[100 Projects/API-UJIKOM]].
 
 Terkait: [[100 Projects/Noir App]], [[200 Context/220 Infrastruktur]]
