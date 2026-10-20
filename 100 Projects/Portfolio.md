@@ -1,7 +1,7 @@
 ---
 type: project
 status: active
-last-updated: 2026-10-05
+last-updated: 2026-10-20
 ai-first: true
 tags: [portfolio, web, homelab]
 ---
@@ -52,5 +52,8 @@ Web portofolio statis milik Sofyan Eka Febriyanto di `sefy.my.id`, dihosting di 
 - **2026-10-18**: Adobe Stock — klaim batch review #2 tidak bisa diverifikasi (tidak disampaikan ke Sofyan); recheck + rekonsiliasi otomatis Senin 19 Okt 08:00. Lihat [[100 Projects/Adobe Stock]].
 - **2026-10-19**: Kantor AI SaaS — landing `tim.sefy.my.id` LIVE (~01:00 WIB, deploy di STB: `/home/sofyan/kantor-landing/index.html`, systemd user sofyan python http.server :8095, ingress cloudflared, CNAME via konektor Cloudflare — DNS write pertama yang terverifikasi). Jalur GitHub Pages (mentok 2FA) dan Vercel (403 scope) ditinggalkan. Repo `SofyanEkaFebriyanto/kantor-ai-landing` dibuat manual sebagai backup source. Lihat [[100 Projects/Kantor AI]].
 - **2026-10-19**: API-UJIKOM — verifikasi 5 jebakan drill di repo atas pertanyaan Sofyan: semua sudah benar (wording 403 persis PDF, commit `dad2cac` di main) — repo 100% sesuai PDF untuk Tes Praktik 22 Okt. Lihat [[100 Projects/API-UJIKOM]].
+- **2026-10-20**: Reels @fya.n9 "Sovereign AI for Indonesia 2045" TERBIT — motion graphic vertikal 50,57 dtk (1080×1920, HyperFrames, TTS Gemini voice Charon, peta GeoJSON 146 poligon akurat, SFX sintetis tanpa musik per pilihan Sofyan): https://www.instagram.com/reel/Det3Cxtk9uI/. Koreksi Sofyan: akun dibaca "fiya titik en sembilan".
+- **2026-10-20**: Noir Studio Ep.2 "First Mission" selesai + disetujui Sofyan — YouTube Shorts 30,000 dtk 1080×1920 60fps, render Noir di VM (aturan lama "Sofyan yang render" dikesampingkan perintah langsungnya); outro logo resmi + CTA "Subscribe to Noir Studio". Siap publish.
+- **2026-10-20**: mandat produksi harian mulai 21 Okt — 3 YouTube Shorts + 3 Reels/hari full otonom (tanpa stage-gate); aturan publish keras: kirim video dulu, publish hanya setelah Sofyan approve. Cron `noir-studio-shorts-daily` (08:42) + `fya-n9-reels-daily` (15:42).
 
 Terkait: [[100 Projects/Noir App]], [[200 Context/220 Infrastruktur]]
