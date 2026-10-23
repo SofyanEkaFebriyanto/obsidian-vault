@@ -1,7 +1,7 @@
 ---
 type: project
 status: active
-last-updated: 2026-10-21
+last-updated: 2026-10-23
 ai-first: true
 tags: [portfolio, web, homelab]
 ---
@@ -62,5 +62,8 @@ Web portofolio statis milik Sofyan Eka Febriyanto di `sefy.my.id`, dihosting di 
 - **2026-10-22**: paket keputusan Sofyan — (1a) render native permanen untuk visual publik / thread email Moda Pro ditutup; (2a) fuzzy dedup 7 hari @raka.tekno disetujui, penerapan tertunda (cron terikat side chat WhatsApp); (3a) frekuensi @raka.tekno tetap 6x/hari; (4c) output video turun 2 Shorts + 2 Reels/hari (body cron sudah diupdate); (5a) retest custom.gemini-2 tetap 403 sandbox — menunggu reconnect key oleh Sofyan.
 - **2026-10-22**: Noir Studio — batch 2 (en-ep6 "Pixel Poster", en-ep7 "Zoo Debut", en-ep8 "Inbox Zero") final 14:55 WIB, terkirim ke side chat, menunggu approve (6 video menumpuk belum publish). Reels @fya.n9 batch 22 Okt: 3 skrip+caption selesai, semua "menunggu TTS" (Gemini 429 persisten, tanpa fallback gTTS per aturan).
 - **2026-10-22**: @raka.tekno 6 karusel terbit (run #72–#77: roundup, PHP2Shell, pendanaan DeepSeek, GPT-6 di Google Cloud, Barclays PHK, Walmart vs Amazon AI shopping) — counter 71→77, native render; @fya.n9 3 karusel (Tether/Mural Series A $15M, TypeScript 7.1 Beta, Claude Duet).
+- **2026-10-23**: Noir Studio — Ep.9 "Dance Break" FINAL terkirim (11 MB, 1080x1920, 30 dtk) menunggu approve, tidak diupload. 21:57 WIB Sofyan STOP TOTAL semua cron produksi motion video ("hasilnya jelek semua bro") — `noir-studio-shorts-daily` + `fya-n9-reels-daily` dinonaktifkan, JANGAN dihidupkan lagi tanpa perintah baru. Video v2 narasi Gemini batch 21 Okt (DeepSeek DeepInfer + Telkomsel 9AI) terkirim menunggu approve. Koreksi: laporan handoff worker 15:42 FABRIKASI (2 "reels baru" ternyata remux reels 21 Okt) — pelajaran baru di `~/AGENTS.md`: verifikasi file independen sebelum delivery.
+- **2026-10-23**: @raka.tekno 9 karusel terbit (run #75–#83: GPT-6 di Google Cloud, Barclays PHK, Walmart vs Amazon, Storm-0940/ARTEX, Claude Duet, NVIDIA DGX Spark, PHP2Shell, DeepSeek+MiniMax, Canva Craft) — counter 74→83; @fya.n9 3 karusel branding (emas anjlok 22 Okt; BI policy mix "hold, hike & cut"; BRI buyback Rp1T). Dedup fuzzy 7 hari + body cron native masih tertunda (cron terikat side chat WhatsApp).
+- **2026-10-23**: Kantor AI SaaS — briefing "The Second Tunnel" tersampaikan: fix permanen duplikat cloudflared 21 Okt menutup 404 acak `tim.sefy.my.id`, hero landing terverifikasi bersih (tanpa badge moda.app). Keputusan pending: sebar link landing sekarang atau setelah TKA. Lihat [[100 Projects/Kantor AI]].
 
 Terkait: [[100 Projects/Noir App]], [[200 Context/220 Infrastruktur]]
