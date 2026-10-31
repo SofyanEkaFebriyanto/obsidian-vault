@@ -94,6 +94,7 @@ Proyek web live. Detail dari agent memory + sesi deploy (confidence high).
 - Filament v5.6.7 sudah aktif dengan resources lengkap — klaim "not configured" di CLAUDE.md STALE.
 
 ## Recent Activity
+- [[400 Daily/Noir 2026-10-31|2026-10-31 — Design pass 2 (commit `f7a6624`, branch `muse-agent`, atas nama Noir atas perintah eksplisit Sofyan): fokus keyboard, prefers-reduced-motion, target sentuh 44px, nav underline emas + status aktif, caption kategori + eager-load kategori, ring search 2px; `docs/DESIGN.md` baru. Deploy review STB disetujui lalu BATAL (disk `/DATA` rusak, I/O error, remount read-only); review dialihkan ke test.kenfa.id — build frontend lokal selesai, deploy tertunda menunggu Sofyan tempel kunci SSH baru di hPanel + kirim hostname SSH. CasaOS STB dihapus total.]]
 - [[400 Daily/2026-09-07|2026-09-07 — Google Login LIVE (Socialite v5.31, tombol /masuk+/daftar, auto-verified + claim guest order) + hapus Transfer Manual (validasi server midtrans|cod) + INCIDENT rsync multi-source `--delete` hapus public_html/.env → recovery penuh dari backup 26 Agu, situs 200 lagi. Suite 208, commit 6ade1f3+2997984]]
 - [[400 Daily/2026-09-05|2026-09-05 — Nav pengembalian (7 tab + desktop) + rapikan akun (/akun→pesanan, tab returns keluar) + wajib pilih kurir + FIX style vite (public/build). LIVE `a80b7dc`, 200 test hijau]]
 - [[400 Daily/2026-09-04|2026-09-04 — Pra-meeting owner: scheduler produksi di-restart (auto-expire 3 order pending), FIX 2 bug latens alur pengembalian (Notifiable + $steps 500), ongkir verified live. Suite 196 hijau, commit 16dfae3]]
