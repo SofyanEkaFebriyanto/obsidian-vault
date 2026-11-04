@@ -64,3 +64,6 @@ Terkait: [[100 Projects/Proyek Aktif]], [[200 Context/210 hermes-agent/index|Her
 ## Hermes STB — Armbian (by hermes stb, 2026-11-05)
 - Detail lengkap: [[200 Context/230 Hermes STB (192.168.1.10)|Hermes STB (192.168.1.10)]]
 - ringkas: static IP 192.168.1.10, Caddy :8080 dari /mnt/www, eMMC 94% → 87% dibersihkan ke HDD, fstab UUID + linger done.
+
+## REINSTALL 2026-11-05 (clarified by Sofyan, by hermes stb)
+- STB H680P di atas sudah direinstall ke Armbian (lihat detail aktif di [[200 Context/230 Hermes STB (192.168.1.10)|Hermes STB]]). Catatan CasaOS/Docker/noir-brain/portfolio lama di section inventaris sudah tidak aktif di mesin ini — jangan menjalankan ulang dari snapshot lama.

@@ -7,7 +7,7 @@ tags: [infrastruktur, hermes, home-server, caddy]
 ---
 
 ## For future agent
-Node kedua HG680P (Armbian) sebagai home server Hermes — jangan tertukar dengan STB H680P Ubuntu 26.04/CasaOS di [[200 Context/220 Infrastruktur|Infrastruktur]].
+STB H680P yang sama dengan entry lama di [[200 Context/220 Infrastruktur|Infrastruktur]] (konfirmasi Sofyan 2026-11-05: mesin yang sama, baru reinstall ke Armbian). Stack lama Ubuntu 26.04/CasaOS/Docker sudah pensiun; konfigurasi aktif sekarang ada di note ini.
 
 # Hermes STB (192.168.1.10)
 
