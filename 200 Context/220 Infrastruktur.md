@@ -1,7 +1,7 @@
 ---
 type: moc
 status: active
-last-updated: 2026-08-25
+last-updated: 2026-11-05
 ai-first: true
 tags: [infrastruktur, index]
 ---
@@ -32,6 +32,7 @@ Peta infrastruktur jaringan/server yang dipakai lintas proyek. Dari agent memory
 | UpCloud 213.163.205.4 | upcload-sofyan, 12c/24GB; FinceptTerminal |
 | VPS 82.153.126.137 | qoder-farm (vps1-3) |
 | Laptop Fedora | Primary Hermes + vault + farming suite |
+| STB Hermes 192.168.1.10 (Armbian noble, 4x Cortex-A53/1.8GB) | Home server Hermes (Caddy :8080, HDD 500GB di /mnt) — detail di [[200 Context/230 Hermes STB (192.168.1.10)\|Hermes STB]] (by hermes stb, 2026-11-05) |
 
 ## Jaringan & proxy
 - Warp rotator: `~/.9router-warp/` — 50 akun, wireproxy SOCKS5 port 51001, 9Router v16+, provider openai-compatible-opencode-free, auto-switch 1x 429 + cooldown 60s.
@@ -58,3 +59,8 @@ Terkait: [[100 Projects/Proyek Aktif]], [[200 Context/210 hermes-agent/index|Her
 
 ## Freeai farm (SELESAI 2026-10-03 22:05)
 - 750 akun dari 762 proxy; stop 5 gagal beruntun (email verifikasi tak datang). 9Router restart, sehat; 752 koneksi `free-ai-*` aktif.
+
+
+## Hermes STB — Armbian (by hermes stb, 2026-11-05)
+- Detail lengkap: [[200 Context/230 Hermes STB (192.168.1.10)|Hermes STB (192.168.1.10)]]
+- ringkas: static IP 192.168.1.10, Caddy :8080 dari /mnt/www, eMMC 94% → 87% dibersihkan ke HDD, fstab UUID + linger done.
