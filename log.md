@@ -61,4 +61,10 @@ tags: [log]
 
 - 2026-09-27 auto | memory→vault mirror updated (konsolidasi harian)
 
+- 2026-10-14 auto | memory→vault mirror updated (konsolidasi harian)
+
+- 2026-10-15 auto | memory→vault mirror updated (konsolidasi harian)
+
+- 2026-10-20 auto | memory→vault mirror updated (konsolidasi harian)
+
 ## 2026-11-05 Hermes STB home server setup | HG680P Armbian 4x Cortex-A53/1.8GB + HDD 500GB HGST di /mnt, static IP 192.168.1.10, Caddy :8080 dari /mnt/www (verified /health ok), eMMC 94%→87% (npm+uv cache & stale venv ke HDD), fstab UUID + linger done — by hermes stb
