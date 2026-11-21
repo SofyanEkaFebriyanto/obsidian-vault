@@ -1,0 +1,164 @@
+version: 1
+servers:
+  chrome-devtools:
+    default: &id001
+      command: /home/sofyan/.local/share/fnm/node-versions/v24.22.3/installation/bin/node
+      args:
+      - /home/sofyan/.npm-global/lib/node_modules/chrome-devtools-mcp/out/Default/gen/src/bin/chrome-devtools-mcp.js
+      startup_seconds: 30
+    clients:
+      codex: *id001
+  code-index:
+    default: &id002
+      command: /home/sofyan/.local/bin/code-index-mcp
+      args: []
+      startup_seconds: 30
+    clients:
+      codex: *id002
+  codebase-memory:
+    default: &id003
+      command: /home/sofyan/.local/bin/codebase-memory-mcp
+      args: []
+      startup_seconds: 30
+    clients:
+      codex: *id003
+  context7:
+    default: &id004
+      command: npx
+      args:
+      - -y
+      - '@upstash/context7-mcp@latest'
+    clients:
+      claude: *id004
+      hermes:
+        url: https://mcp.context7.com/mcp
+        startup_seconds: 60
+      codex:
+        url: https://mcp.context7.com/mcp/oauth
+      opencode:
+        url: https://mcp.context7.com/mcp/oauth
+  exa:
+    default: &id005
+      url: https://mcp.exa.ai/mcp
+    clients:
+      claude: *id005
+  figma:
+    default: &id006
+      url: https://mcp.figma.com/mcp
+      startup_seconds: 60
+    clients:
+      hermes: *id006
+      codex:
+        url: https://mcp.figma.com/mcp
+      opencode:
+        url: https://mcp.figma.com/mcp
+  filesystem:
+    default: &id007
+      command: npx
+      args:
+      - -y
+      - '@modelcontextprotocol/server-filesystem'
+      - /home/sofyan
+    clients:
+      claude: *id007
+  github:
+    default: &id008
+      command: npx
+      args:
+      - -y
+      - '@modelcontextprotocol/server-github'
+      env:
+        GITHUB_PERSONAL_ACCESS_TOKEN:
+          env: GITHUB_PERSONAL_ACCESS_TOKEN
+    clients:
+      claude: *id008
+  muse-relay:
+    default: &id009
+      command: node
+      args:
+      - /home/sofyan/muse-relay-mcp/server.js
+    clients:
+      codex: *id009
+      opencode:
+        command: node
+        args:
+        - /home/sofyan/muse-relay-mcp/server.js
+  mysql_local:
+    default: &id010
+      command: npx
+      args:
+      - -y
+      - --package
+      - '@benborla29/mcp-server-mysql'
+      - mcp-server-mysql
+      env:
+        MYSQL_HOST: 127.0.0.1
+        MYSQL_PORT: '3306'
+        MYSQL_USER: root
+        MYSQL_PASS:
+          env: MYSQL_PASS
+        MYSQL_DB: local_db
+        ALLOW_INSERT_OPERATION: 'true'
+        ALLOW_UPDATE_OPERATION: 'true'
+        ALLOW_DELETE_OPERATION: 'true'
+    clients:
+      claude: *id010
+  playwright:
+    default: &id011
+      command: npx
+      args:
+      - -y
+      - '@playwright/mcp@latest'
+    clients:
+      claude: *id011
+      hermes:
+        command: /home/sofyan/.local/share/fnm/node-versions/v24.22.3/installation/bin/npx
+        args:
+        - -y
+        - '@playwright/mcp@latest'
+        - --browser
+        - chrome
+        startup_seconds: 60
+      codex:
+        command: /home/sofyan/.local/share/fnm/node-versions/v24.22.3/installation/bin/npx
+        args:
+        - -y
+        - '@playwright/mcp@latest'
+        - --browser
+        - chrome
+      opencode:
+        command: /home/sofyan/.local/share/fnm/node-versions/v24.22.3/installation/bin/npx
+        args:
+        - -y
+        - '@playwright/mcp@latest'
+        - --browser
+        - chrome
+  rea:
+    default: &id012
+      command: /home/sofyan/.local/share/fnm/node-versions/v24.22.3/installation/bin/node
+      args:
+      - /home/sofyan/.npm-global/bin/rea
+      - mcp
+      startup_seconds: 120
+    clients:
+      hermes: *id012
+      codex:
+        command: /home/sofyan/.local/share/fnm/node-versions/v24.22.3/installation/bin/node
+        args:
+        - /home/sofyan/.npm-global/bin/rea
+        - mcp
+        startup_seconds: 30
+        execution_seconds: 450
+      opencode:
+        command: /home/sofyan/.local/share/fnm/node-versions/v24.22.3/installation/bin/node
+        args:
+        - /home/sofyan/.npm-global/bin/rea
+        - mcp
+  sequential-thinking:
+    default: &id013
+      command: npx
+      args:
+      - -y
+      - '@modelcontextprotocol/server-sequential-thinking'
+    clients:
+      claude: *id013

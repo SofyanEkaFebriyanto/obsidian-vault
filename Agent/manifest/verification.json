@@ -1,0 +1,22 @@
+{
+  "canonical_skills": 262,
+  "archived_variants": 161,
+  "hermes_runtime_advertised": 261,
+  "hermes_filtered": [
+    "sdlc-review"
+  ],
+  "tests_passed": 16,
+  "mcp_configured_each_client": 13,
+  "mcp_drift": [],
+  "known_credential_redactions": 1,
+  "opencode_connected": 11,
+  "opencode_failed": [
+    "filesystem",
+    "mysql_local"
+  ],
+  "codex_not_logged_in": [
+    "context7",
+    "exa",
+    "figma"
+  ]
+}

@@ -1,0 +1,2222 @@
+{
+  "canonical": {
+    "a11y-audit": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/a11y-audit",
+      "digest": "e87cd64a31c3b28fa51f04f02692147df0ce4e40b6d8d31a023286af3814c669",
+      "current_digest": "e87cd64a31c3b28fa51f04f02692147df0ce4e40b6d8d31a023286af3814c669"
+    },
+    "animate": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/animate",
+      "digest": "f76ddd3d4446c3c56a143ea98650c370b3e8f88e6203d1e22082d2082bf1eed7",
+      "current_digest": "f76ddd3d4446c3c56a143ea98650c370b3e8f88e6203d1e22082d2082bf1eed7"
+    },
+    "animate-expo": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/animate-expo",
+      "digest": "5de09593d564091f9db60aabede7bed760251e118548272050a247c653c417d2",
+      "current_digest": "5de09593d564091f9db60aabede7bed760251e118548272050a247c653c417d2"
+    },
+    "animation-performance": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/animation-performance",
+      "digest": "333f6a387124d0eda927614671f8be3a00d1ddeb9f43cf8b7fa7032630414311",
+      "current_digest": "333f6a387124d0eda927614671f8be3a00d1ddeb9f43cf8b7fa7032630414311"
+    },
+    "animation-vocabulary": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/animation-vocabulary",
+      "digest": "0058036865ecbb864fd0c4132efcc62425355d6e99c7e6ef6a936742d62a5dea",
+      "current_digest": "0058036865ecbb864fd0c4132efcc62425355d6e99c7e6ef6a936742d62a5dea"
+    },
+    "antislop": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/antislop",
+      "digest": "55d19232a97dd098a106cac4a6c68d53133ab2d1becf23dbdc9ddfc024dd69ae",
+      "current_digest": "55d19232a97dd098a106cac4a6c68d53133ab2d1becf23dbdc9ddfc024dd69ae"
+    },
+    "antislop-code": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/antislop-code",
+      "digest": "bac9828572f512de20122f1b0185a70315448d8fb4ae1718c2f259fff13fad6b",
+      "current_digest": "bac9828572f512de20122f1b0185a70315448d8fb4ae1718c2f259fff13fad6b"
+    },
+    "antislop-copywriting": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/antislop-copywriting",
+      "digest": "709209c602d6331f5b136f43a0e660dff472bc04c56381f43fcfe9e019934d0b",
+      "current_digest": "709209c602d6331f5b136f43a0e660dff472bc04c56381f43fcfe9e019934d0b"
+    },
+    "antislop-human": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/antislop-human",
+      "digest": "d36f72565cb2df0c1fed32f8582d3c1997b8d9963b42f0b9198b1e00636e2b46",
+      "current_digest": "d36f72565cb2df0c1fed32f8582d3c1997b8d9963b42f0b9198b1e00636e2b46"
+    },
+    "antislop-layoutmobile": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/antislop-layoutmobile",
+      "digest": "26e4ab8ebf33e7c3098aa08a327d0f0f4cd4d88ad238a768cd5735d7e0979704",
+      "current_digest": "26e4ab8ebf33e7c3098aa08a327d0f0f4cd4d88ad238a768cd5735d7e0979704"
+    },
+    "antislop-ui": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/antislop-ui",
+      "digest": "a36e8f0626aa2b3a960d58688242bed6ffecfb8efcb2cbdaaa8b8299f1d38559",
+      "current_digest": "a36e8f0626aa2b3a960d58688242bed6ffecfb8efcb2cbdaaa8b8299f1d38559"
+    },
+    "apple-design": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/apple-design",
+      "digest": "4026c7eaed69f075d95ac217836a02907e0619ce5aab34b0adb22535d5bf3f3e",
+      "current_digest": "4026c7eaed69f075d95ac217836a02907e0619ce5aab34b0adb22535d5bf3f3e"
+    },
+    "apply-aesthetic": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/apply-aesthetic",
+      "digest": "c944e3ebef860055bc879d1ba5167e172fc51fdd16ed98d8a12b84d969e84c6c",
+      "current_digest": "c944e3ebef860055bc879d1ba5167e172fc51fdd16ed98d8a12b84d969e84c6c"
+    },
+    "ask-sonner": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/ask-sonner",
+      "digest": "8bd257b845985f4b35b603b510a126604176521094af79c4b7347ffeb8a8f7ab",
+      "current_digest": "8bd257b845985f4b35b603b510a126604176521094af79c4b7347ffeb8a8f7ab"
+    },
+    "banner-design": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/banner-design",
+      "digest": "9f4d0bf08d92eb257192cfe0e19aa6b7f56a92140de38c5a2a2b495fec9f2c07",
+      "current_digest": "9f4d0bf08d92eb257192cfe0e19aa6b7f56a92140de38c5a2a2b495fec9f2c07"
+    },
+    "brand": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/brand",
+      "digest": "f21c2dc0a61ce5a1d2a4d5c688316003eec15532ae9a258f22fb83c89176b250",
+      "current_digest": "f21c2dc0a61ce5a1d2a4d5c688316003eec15532ae9a258f22fb83c89176b250"
+    },
+    "brandkit": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/brandkit",
+      "digest": "770a917ce249ca490894cb10f3f5c10ed29ce66665b891deb6ca75065e6c4c3f",
+      "current_digest": "770a917ce249ca490894cb10f3f5c10ed29ce66665b891deb6ca75065e6c4c3f"
+    },
+    "break-ui": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/break-ui",
+      "digest": "60ada67662925f4df5e3c6ff41cac3ab241b66f8898100a5ffcd7ba7196cb868",
+      "current_digest": "60ada67662925f4df5e3c6ff41cac3ab241b66f8898100a5ffcd7ba7196cb868"
+    },
+    "choreograph": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/choreograph",
+      "digest": "4c0615e0cd41ffbca0c7912dba1f1dd1d84b8a3499a5c393be53df9d1b9dec16",
+      "current_digest": "4c0615e0cd41ffbca0c7912dba1f1dd1d84b8a3499a5c393be53df9d1b9dec16"
+    },
+    "critique": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/critique",
+      "digest": "d788d4a2986c9ee11cf68fe9bf1a4bf0301403e1c414cbe0178a4054e14ff420",
+      "current_digest": "d788d4a2986c9ee11cf68fe9bf1a4bf0301403e1c414cbe0178a4054e14ff420"
+    },
+    "data-dashboard": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/data-dashboard",
+      "digest": "6efd1273c6f6c6385468366b59834e53d3ec32a67d39d11056114451dff67468",
+      "current_digest": "6efd1273c6f6c6385468366b59834e53d3ec32a67d39d11056114451dff67468"
+    },
+    "design": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/design",
+      "digest": "1069d7f8169e94013eeafb66cd3c5b268d583df9de5c11147e2ef3e31fe80f8f",
+      "current_digest": "1069d7f8169e94013eeafb66cd3c5b268d583df9de5c11147e2ef3e31fe80f8f"
+    },
+    "design-code": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/design-code",
+      "digest": "5eeb3483b037717eb30427f8e0680a3896291029a89cd0402c11f5ff614981a3",
+      "current_digest": "5eeb3483b037717eb30427f8e0680a3896291029a89cd0402c11f5ff614981a3"
+    },
+    "design-component": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/design-component",
+      "digest": "8983a7259cd67269682f163a4c09e455374631317d117e77b6809d64c6068f22",
+      "current_digest": "8983a7259cd67269682f163a4c09e455374631317d117e77b6809d64c6068f22"
+    },
+    "design-doctrine": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/design-doctrine",
+      "digest": "22be99f507039ac24582b63f82a608269e0c6b21e5fed6765fbcc2f39b2126b5",
+      "current_digest": "22be99f507039ac24582b63f82a608269e0c6b21e5fed6765fbcc2f39b2126b5"
+    },
+    "design-qa": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/design-qa",
+      "digest": "7e6332980424948fb18d1c103e2e6b5aad8c68ca556491d264243cd7c2561d94",
+      "current_digest": "7e6332980424948fb18d1c103e2e6b5aad8c68ca556491d264243cd7c2561d94"
+    },
+    "design-review": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/design-review",
+      "digest": "203dd5693af43286d3de63dd5ff6ff0eed451dcc20ca2220482b7fd490ceef98",
+      "current_digest": "203dd5693af43286d3de63dd5ff6ff0eed451dcc20ca2220482b7fd490ceef98"
+    },
+    "design-screen": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/design-screen",
+      "digest": "869bf775091019e7b19fc3e4feff688c05d69dae86cd00af06ba74ef92d02c2b",
+      "current_digest": "869bf775091019e7b19fc3e4feff688c05d69dae86cd00af06ba74ef92d02c2b"
+    },
+    "design-system": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/design-system",
+      "digest": "5f04f952033a9284e0535051ca0f1a23f14848890d2839732c99a2501c9f6572",
+      "current_digest": "5f04f952033a9284e0535051ca0f1a23f14848890d2839732c99a2501c9f6572"
+    },
+    "design-tokens": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/design-tokens",
+      "digest": "bdd0c61d7cd2e2a3c0cf3ec36aed5d7dc3da5ca141bc6b778ce23e643bf92e15",
+      "current_digest": "bdd0c61d7cd2e2a3c0cf3ec36aed5d7dc3da5ca141bc6b778ce23e643bf92e15"
+    },
+    "emil-design-eng": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/emil-design-eng",
+      "digest": "2483020b5bbaab030d6b3463bfba49c8d9c2cd8dea4d9fba836dbd471f1fb706",
+      "current_digest": "2483020b5bbaab030d6b3463bfba49c8d9c2cd8dea4d9fba836dbd471f1fb706"
+    },
+    "figma-integration": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/figma-integration",
+      "digest": "311de5819fb1366cd0236c91c0c5f05c9bd5a7123ee226c403788718cd3ac2bf",
+      "current_digest": "311de5819fb1366cd0236c91c0c5f05c9bd5a7123ee226c403788718cd3ac2bf"
+    },
+    "find-animation-opportunities": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/find-animation-opportunities",
+      "digest": "465d087c41768e4f14ed640dd049036009f613feb55baaa5831b68b33178f9d2",
+      "current_digest": "465d087c41768e4f14ed640dd049036009f613feb55baaa5831b68b33178f9d2"
+    },
+    "gate": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/gate",
+      "digest": "163338b83b40f137322a5188e79a717c2ede045c49bbbf15e3dc5f1534076d31",
+      "current_digest": "163338b83b40f137322a5188e79a717c2ede045c49bbbf15e3dc5f1534076d31"
+    },
+    "governance": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/governance",
+      "digest": "5252ecbccee7c8b09f9f22dea066840cb3d8fe26e7fddd7395683ee923663a24",
+      "current_digest": "5252ecbccee7c8b09f9f22dea066840cb3d8fe26e7fddd7395683ee923663a24"
+    },
+    "grill-me": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/grill-me",
+      "digest": "9aaa6ce45e936845a52a08a589afa86cd8110eceac6042289a7a7452640f4b62",
+      "current_digest": "9aaa6ce45e936845a52a08a589afa86cd8110eceac6042289a7a7452640f4b62"
+    },
+    "image-to-code": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/image-to-code",
+      "digest": "557e776284381539c32fbc770da27985b5150ca6c0f8c2cbec10b4db5ca7435c",
+      "current_digest": "557e776284381539c32fbc770da27985b5150ca6c0f8c2cbec10b4db5ca7435c"
+    },
+    "impeccable": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/impeccable",
+      "digest": "79c61b886e23dccc23d40ad0fb63984f0772f4f3bb95c678e5741f05d9dc2bf9",
+      "current_digest": "79c61b886e23dccc23d40ad0fb63984f0772f4f3bb95c678e5741f05d9dc2bf9"
+    },
+    "improve-animations": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/improve-animations",
+      "digest": "f6652a3bb94950baa33c684cc0966c838eb65cf22ebb5769a4f51ea205c254fe",
+      "current_digest": "f6652a3bb94950baa33c684cc0966c838eb65cf22ebb5769a4f51ea205c254fe"
+    },
+    "migrate-design-system": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/migrate-design-system",
+      "digest": "3b11768c3f3d1d6d897d34c5c1c05aa9a456ec8d2b00f66b75429c6a84220614",
+      "current_digest": "3b11768c3f3d1d6d897d34c5c1c05aa9a456ec8d2b00f66b75429c6a84220614"
+    },
+    "mobile-native": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/mobile-native",
+      "digest": "f221cea36642168df6d3d6d7f236237cbf1ae669138ff7df07775674223d49ad",
+      "current_digest": "f221cea36642168df6d3d6d7f236237cbf1ae669138ff7df07775674223d49ad"
+    },
+    "observe": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/observe",
+      "digest": "7fc2c0b70ee8a59f5e74a548926afbb3cc1ab633bc6bfa2a18b8cba1bd0173f2",
+      "current_digest": "7fc2c0b70ee8a59f5e74a548926afbb3cc1ab633bc6bfa2a18b8cba1bd0173f2"
+    },
+    "performance": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/performance",
+      "digest": "3ae070a0cc126f19208146e595a689dc002d8b926538392bb2cb2c154335b76d",
+      "current_digest": "3ae070a0cc126f19208146e595a689dc002d8b926538392bb2cb2c154335b76d"
+    },
+    "pick-ui-library": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/pick-ui-library",
+      "digest": "5d2a77bf0ecafbda85aa95fb49999b6d77945d9066ec83d970b62e5b388cd686",
+      "current_digest": "5d2a77bf0ecafbda85aa95fb49999b6d77945d9066ec83d970b62e5b388cd686"
+    },
+    "prototype": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/prototype",
+      "digest": "77be567d8c946608fdd15e61b62ab383cdf289a194dce2479828b7eda860d3ba",
+      "current_digest": "77be567d8c946608fdd15e61b62ab383cdf289a194dce2479828b7eda860d3ba"
+    },
+    "redesign": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/redesign",
+      "digest": "afe10767a21c17b758c61b4f4ee1d7623cae9547a1709eacae3bdd4245163be9",
+      "current_digest": "afe10767a21c17b758c61b4f4ee1d7623cae9547a1709eacae3bdd4245163be9"
+    },
+    "remove-animations": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/remove-animations",
+      "digest": "5d738305c722c25e054a9e3b67e68d4429617d9fbae4bc8861b73cc25c8ba84c",
+      "current_digest": "5d738305c722c25e054a9e3b67e68d4429617d9fbae4bc8861b73cc25c8ba84c"
+    },
+    "review-animations": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/review-animations",
+      "digest": "b1aca2c16876b8f00e2a1eb161714e63ec41099269d5f95c2f307230749b9dcd",
+      "current_digest": "b1aca2c16876b8f00e2a1eb161714e63ec41099269d5f95c2f307230749b9dcd"
+    },
+    "scaffold-project": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/scaffold-project",
+      "digest": "042f4d847067c016bd21faf2cb9eb0bd1dca6a0f63a8d84cbadbdef7c1f99901",
+      "current_digest": "042f4d847067c016bd21faf2cb9eb0bd1dca6a0f63a8d84cbadbdef7c1f99901"
+    },
+    "ship": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/ship",
+      "digest": "f67954108e1e7a6f28dabd22afb37f6c62d19a4c8c97c518f36b4977fd0c81c8",
+      "current_digest": "f67954108e1e7a6f28dabd22afb37f6c62d19a4c8c97c518f36b4977fd0c81c8"
+    },
+    "slides": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/slides",
+      "digest": "f44bc8e6a029303d9a9419d51f07bc56c6f308233a9ca9f0392f904529da813a",
+      "current_digest": "f44bc8e6a029303d9a9419d51f07bc56c6f308233a9ca9f0392f904529da813a"
+    },
+    "superdesign": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/superdesign",
+      "digest": "036f79eb99028e86c6cc769836cd53491a758617be264dfd5376e5edfbb87d5c",
+      "current_digest": "036f79eb99028e86c6cc769836cd53491a758617be264dfd5376e5edfbb87d5c"
+    },
+    "token-build": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/token-build",
+      "digest": "5441dfeea55e83b70cf8dde38f6846f93a75ccd5ea3133411ce967f11f416e56",
+      "current_digest": "5441dfeea55e83b70cf8dde38f6846f93a75ccd5ea3133411ce967f11f416e56"
+    },
+    "ui-craft-dense-dashboard": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/ui-craft-dense-dashboard",
+      "digest": "d0a71ccee90de5638fa4630e8feba31e17f311b4e394412cf3813eacc1c28667",
+      "current_digest": "d0a71ccee90de5638fa4630e8feba31e17f311b4e394412cf3813eacc1c28667"
+    },
+    "ui-craft-editorial": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/ui-craft-editorial",
+      "digest": "a1c3c74982d5ec792e442d28bd8ed8e569f4493a0fb2567febb6c5aa70d3c616",
+      "current_digest": "a1c3c74982d5ec792e442d28bd8ed8e569f4493a0fb2567febb6c5aa70d3c616"
+    },
+    "ui-craft-minimal": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/ui-craft-minimal",
+      "digest": "e4c64714c9472885ce38849a470eadfe623e405e783aede8f1a1d1c08e157f1f",
+      "current_digest": "e4c64714c9472885ce38849a470eadfe623e405e783aede8f1a1d1c08e157f1f"
+    },
+    "ui-styling": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/ui-styling",
+      "digest": "58375f95b5660026fc34b6aa02c431061d6480692eaea754270abfe4039ceb41",
+      "current_digest": "58375f95b5660026fc34b6aa02c431061d6480692eaea754270abfe4039ceb41"
+    },
+    "ui-ux-pro-max": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/ui-ux-pro-max",
+      "digest": "0d84a6d222e219ec7aa9fec9e95acde1658a20a55804f967f5bf4b93e6e6d23f",
+      "current_digest": "0d84a6d222e219ec7aa9fec9e95acde1658a20a55804f967f5bf4b93e6e6d23f"
+    },
+    "ux-writing": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/ux-writing",
+      "digest": "f6004885bfec1e63ec7fe930a5c248ca79110246c6228da9ae41cc18f0159710",
+      "current_digest": "f6004885bfec1e63ec7fe930a5c248ca79110246c6228da9ae41cc18f0159710"
+    },
+    "write-swift": {
+      "source": "Claude Code",
+      "path": "/home/sofyan/.claude/skills/write-swift",
+      "digest": "f20bb9cf51dbee1900b264820a12f1d3d378dc4d23ac758e7ba9e644c49a2459",
+      "current_digest": "f20bb9cf51dbee1900b264820a12f1d3d378dc4d23ac758e7ba9e644c49a2459"
+    },
+    "9router-suite": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/9router-suite",
+      "digest": "e2691a8ca7f51f77de5f8bc2da204e65b6c607b9dfc118108f7111ca2a8573a1",
+      "current_digest": "e2691a8ca7f51f77de5f8bc2da204e65b6c607b9dfc118108f7111ca2a8573a1"
+    },
+    "9router": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/9router-suite/9router",
+      "digest": "670a1e8d9b0027674a6509a8f460ab126d1c97268ab2acfc5d6045db8b7afa0c",
+      "current_digest": "670a1e8d9b0027674a6509a8f460ab126d1c97268ab2acfc5d6045db8b7afa0c"
+    },
+    "9router-chat": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/9router-suite/9router-chat",
+      "digest": "f10f8257d7db994b622abd04bc92ac36349f8087e3be073695b4a00c95d37e25",
+      "current_digest": "f10f8257d7db994b622abd04bc92ac36349f8087e3be073695b4a00c95d37e25"
+    },
+    "9router-embeddings": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/9router-suite/9router-embeddings",
+      "digest": "3701f27fe40d06b1d0e736d60c53374b244cb5c475db9140f703f801535f21f5",
+      "current_digest": "3701f27fe40d06b1d0e736d60c53374b244cb5c475db9140f703f801535f21f5"
+    },
+    "9router-image": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/9router-suite/9router-image",
+      "digest": "3933bcb50f2ec077fab4541e08dd22187cf31d2e29462a08115c200552d52d44",
+      "current_digest": "3933bcb50f2ec077fab4541e08dd22187cf31d2e29462a08115c200552d52d44"
+    },
+    "9router-stt": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/9router-suite/9router-stt",
+      "digest": "6fb3ed0b4e693c56517c3339214bb0da499ec10e49f56862f63fb024282fab1e",
+      "current_digest": "6fb3ed0b4e693c56517c3339214bb0da499ec10e49f56862f63fb024282fab1e"
+    },
+    "9router-tts": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/9router-suite/9router-tts",
+      "digest": "1e4f1fe793e4897b2d3209a1bc0495642fa8ece1cffd374f2d8d5797172eee41",
+      "current_digest": "1e4f1fe793e4897b2d3209a1bc0495642fa8ece1cffd374f2d8d5797172eee41"
+    },
+    "9router-web-fetch": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/9router-suite/9router-web-fetch",
+      "digest": "c987bd50d225b0128e90148ad31106e39bea1d3a596b6aa9bc5484e3a0002bdc",
+      "current_digest": "c987bd50d225b0128e90148ad31106e39bea1d3a596b6aa9bc5484e3a0002bdc"
+    },
+    "9router-web-search": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/9router-suite/9router-web-search",
+      "digest": "f0a4569972c742f90751d6e784f02f26504bf5e7cddb39f484ae8266c73a9fb9",
+      "current_digest": "f0a4569972c742f90751d6e784f02f26504bf5e7cddb39f484ae8266c73a9fb9"
+    },
+    "cloud-farming": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/automation/cloud-farming",
+      "digest": "e9d4bde3ab866b2a648742377a04c8857f5debd0e0a356da8e1c74e8cf194a45",
+      "current_digest": "e9d4bde3ab866b2a648742377a04c8857f5debd0e0a356da8e1c74e8cf194a45"
+    },
+    "computer-use": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/autonomous-ai-agents/computer-use",
+      "digest": "c1462bb1617f663d68751c7b5414455a2ab507e6e11b8909779f9cadbdfe2dec",
+      "current_digest": "c1462bb1617f663d68751c7b5414455a2ab507e6e11b8909779f9cadbdfe2dec"
+    },
+    "hermes-agent": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/autonomous-ai-agents/hermes-agent",
+      "digest": "7e873a901c0b66a341baa47c425c9583b8b62809d61a46ad6d531ba4f84ce770",
+      "current_digest": "7e873a901c0b66a341baa47c425c9583b8b62809d61a46ad6d531ba4f84ce770"
+    },
+    "hermes-persona-engineering": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/autonomous-ai-agents/hermes-persona-engineering",
+      "digest": "c9675fa0a997610c31381897fccb79ab1a48545c405d9fa3221bddb3d6c1e034",
+      "current_digest": "c9675fa0a997610c31381897fccb79ab1a48545c405d9fa3221bddb3d6c1e034"
+    },
+    "merge-reconciler": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/autonomous-ai-agents/merge-reconciler",
+      "digest": "a8fdf7a183b291b7e045180c567a0c16771739c10ceb5e5e018c9b25d632b692",
+      "current_digest": "a8fdf7a183b291b7e045180c567a0c16771739c10ceb5e5e018c9b25d632b692"
+    },
+    "opencode": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/autonomous-ai-agents/opencode",
+      "digest": "fa4c726a3c4f4791ec9255e5fa01851f223222c7e2ec54a488533f6a2384888f",
+      "current_digest": "fa4c726a3c4f4791ec9255e5fa01851f223222c7e2ec54a488533f6a2384888f"
+    },
+    "motion-graphics-code": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/creative-tools/motion-graphics-code",
+      "digest": "ceba7db7f06877300abc23e027e8a9ead8f1e8bcab2bbe8e5371636514ed82a7",
+      "current_digest": "ceba7db7f06877300abc23e027e8a9ead8f1e8bcab2bbe8e5371636514ed82a7"
+    },
+    "humanizer": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/creative/humanizer",
+      "digest": "f95c54490daf0104e1a552c998192b8878b2f0bc77cc4fbbc9128935a63c1a7d",
+      "current_digest": "f95c54490daf0104e1a552c998192b8878b2f0bc77cc4fbbc9128935a63c1a7d"
+    },
+    "jupyter-live-kernel": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/data-science/jupyter-live-kernel",
+      "digest": "21dfab0098b29f81fdd70ef6d1f720157f52aa0ecf250f962f9778746dd13c31",
+      "current_digest": "21dfab0098b29f81fdd70ef6d1f720157f52aa0ecf250f962f9778746dd13c31"
+    },
+    "sdlc-review": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/devops/sdlc-review",
+      "digest": "fbcd965ae57128c55d5b52b2b51c551364055df6cb6c1002f93559909a65314d",
+      "current_digest": "fbcd965ae57128c55d5b52b2b51c551364055df6cb6c1002f93559909a65314d"
+    },
+    "email-inbox-triage": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/email/email-inbox-triage",
+      "digest": "4a1b0dbad18f6a3164926ccf5c1cdf979a1adf779b8f5a4d67e9ff928d774bde",
+      "current_digest": "4a1b0dbad18f6a3164926ccf5c1cdf979a1adf779b8f5a4d67e9ff928d774bde"
+    },
+    "figma-3d-transforms": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/figma-3d-transforms",
+      "digest": "db07ee07d68659f25a9b68c32f53ba75cf32511c2d00e596cbfe3b14a5756768",
+      "current_digest": "db07ee07d68659f25a9b68c32f53ba75cf32511c2d00e596cbfe3b14a5756768"
+    },
+    "figma-code-connect": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/figma-code-connect",
+      "digest": "500032697a7ed7bb4d9d4af8efd9343cbe1408f0ee9fa420c7b4cf98cc6a73a9",
+      "current_digest": "500032697a7ed7bb4d9d4af8efd9343cbe1408f0ee9fa420c7b4cf98cc6a73a9"
+    },
+    "figma-code-workflows": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/figma-code-workflows",
+      "digest": "7170e413cf4bf7b01b9e3e2016b14f11b2cd02900c3464ec793ddb1f28eec3ba",
+      "current_digest": "7170e413cf4bf7b01b9e3e2016b14f11b2cd02900c3464ec793ddb1f28eec3ba"
+    },
+    "figma-create-new-file": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/figma-create-new-file",
+      "digest": "b9e5a91ed30d5b0650ea485f9e4c8114d998562168360b2ac2d3cbab46602556",
+      "current_digest": "b9e5a91ed30d5b0650ea485f9e4c8114d998562168360b2ac2d3cbab46602556"
+    },
+    "figma-design-to-code": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/figma-design-to-code",
+      "digest": "6676accbe84e37deee2910458c5fa5908e1809d0adc3d3e19a74ba40da4c3efa",
+      "current_digest": "6676accbe84e37deee2910458c5fa5908e1809d0adc3d3e19a74ba40da4c3efa"
+    },
+    "figma-generate-design": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/figma-generate-design",
+      "digest": "7d2a643a492fad91fa2907dfd4d563f83f37f1f881e6cd1d3f581d892dc34690",
+      "current_digest": "7d2a643a492fad91fa2907dfd4d563f83f37f1f881e6cd1d3f581d892dc34690"
+    },
+    "figma-generate-diagram": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/figma-generate-diagram",
+      "digest": "0b0d4568ce02c85949cc6781cf1b7b35c788cf8633e9946d2c2a181f43c8e886",
+      "current_digest": "0b0d4568ce02c85949cc6781cf1b7b35c788cf8633e9946d2c2a181f43c8e886"
+    },
+    "figma-generate-library": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/figma-generate-library",
+      "digest": "8a5e2be7f1470797e015fe7d27e4c12f6b346da2427ed775b0ea80a284af0bd2",
+      "current_digest": "8a5e2be7f1470797e015fe7d27e4c12f6b346da2427ed775b0ea80a284af0bd2"
+    },
+    "figma-generative-plugins": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/figma-generative-plugins",
+      "digest": "7439e145b37ff707a6e720625480c5b86a99e4271b577a650e51d39876120d18",
+      "current_digest": "7439e145b37ff707a6e720625480c5b86a99e4271b577a650e51d39876120d18"
+    },
+    "figma-implement-motion": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/figma-implement-motion",
+      "digest": "53ab94642d245fa71d845392b09cef68cd11359d874d6dd1444361b0b09bab68",
+      "current_digest": "53ab94642d245fa71d845392b09cef68cd11359d874d6dd1444361b0b09bab68"
+    },
+    "figma-shaders": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/figma-shaders",
+      "digest": "fa95cbb5533acdcd39bc6c6ab5176166ce812d716d4ece04be94e3feb048cd79",
+      "current_digest": "fa95cbb5533acdcd39bc6c6ab5176166ce812d716d4ece04be94e3feb048cd79"
+    },
+    "figma-spec": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/figma-spec",
+      "digest": "92f93afcb5a0a1cc5fe2b411d08f1c20712d28b1aa502577f42a054b7de82070",
+      "current_digest": "92f93afcb5a0a1cc5fe2b411d08f1c20712d28b1aa502577f42a054b7de82070"
+    },
+    "figma-swiftui": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/figma-swiftui",
+      "digest": "c0352814ff66729b4a6da07886d15f91709ca5037bf9feba2497bd5d4c7ef947",
+      "current_digest": "c0352814ff66729b4a6da07886d15f91709ca5037bf9feba2497bd5d4c7ef947"
+    },
+    "figma-use": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/figma-use",
+      "digest": "30946bc1156e1ec379965b0a331b91a48b3c8ec17763c56b8616efe6030b90f4",
+      "current_digest": "30946bc1156e1ec379965b0a331b91a48b3c8ec17763c56b8616efe6030b90f4"
+    },
+    "figma-use-figjam": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/figma-use-figjam",
+      "digest": "99b084be233c1cfea34b4dd4532ed4d443e4eaeb306857cef3e16ded4ed9721d",
+      "current_digest": "99b084be233c1cfea34b4dd4532ed4d443e4eaeb306857cef3e16ded4ed9721d"
+    },
+    "figma-use-motion": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/figma-use-motion",
+      "digest": "4d8bab4f00fba1b85b2d73167ee13fe7239cf61bdd60325312fd0c2ba29430ec",
+      "current_digest": "4d8bab4f00fba1b85b2d73167ee13fe7239cf61bdd60325312fd0c2ba29430ec"
+    },
+    "figma-use-slides": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/figma-use-slides",
+      "digest": "059012c84c57d4d6b414aeb9003af7ada864a2e8fe2861b4c641469ee36d9ab4",
+      "current_digest": "059012c84c57d4d6b414aeb9003af7ada864a2e8fe2861b4c641469ee36d9ab4"
+    },
+    "codebase-inspection": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/github/codebase-inspection",
+      "digest": "834af16a8487428dc6ac91529630744a5ef6d5d54133345007a9171a5546ecb2",
+      "current_digest": "834af16a8487428dc6ac91529630744a5ef6d5d54133345007a9171a5546ecb2"
+    },
+    "github-issue-to-pr": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/github/github-issue-to-pr",
+      "digest": "a394a4e5521beb8b5623e10f1d4680a3561bae1ac13fafb8f514865d0c0ddf81",
+      "current_digest": "a394a4e5521beb8b5623e10f1d4680a3561bae1ac13fafb8f514865d0c0ddf81"
+    },
+    "heartmula": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/media/heartmula",
+      "digest": "ca79463f2b6b19532d002c290a66de6bae4ece85ca04f8b6485d289ca9fc4ce4",
+      "current_digest": "ca79463f2b6b19532d002c290a66de6bae4ece85ca04f8b6485d289ca9fc4ce4"
+    },
+    "audiocraft": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/mlops/models/audiocraft",
+      "digest": "8f2d8fd97eda4ddcb9466d43abc4d7ad6d74d1f00de053021a8099560db6c361",
+      "current_digest": "8f2d8fd97eda4ddcb9466d43abc4d7ad6d74d1f00de053021a8099560db6c361"
+    },
+    "segment-anything": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/mlops/models/segment-anything",
+      "digest": "3f3f8d0c09aa1820ea9d0db1da7a44e9e394122235fa68678ba46f543ae57744",
+      "current_digest": "3f3f8d0c09aa1820ea9d0db1da7a44e9e394122235fa68678ba46f543ae57744"
+    },
+    "obsidian": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/note-taking/obsidian",
+      "digest": "d938de555b78d1cc34fda838b8d346cd7e4e2a74f02652e91743ee6b70ad24d8",
+      "current_digest": "d938de555b78d1cc34fda838b8d346cd7e4e2a74f02652e91743ee6b70ad24d8"
+    },
+    "obsidian-vault-ops": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/note-taking/obsidian-vault-ops",
+      "digest": "391ddf01b712779811798052e84e803e3f961cb6dfe1eb2e1141f51f4d5a958f",
+      "current_digest": "391ddf01b712779811798052e84e803e3f961cb6dfe1eb2e1141f51f4d5a958f"
+    },
+    "create-command": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/meta/create-command",
+      "digest": "f2e8ca2807bdf6b084b26270bec561a1205bcfa935996abdca918d8930b32a58",
+      "current_digest": "f2e8ca2807bdf6b084b26270bec561a1205bcfa935996abdca918d8930b32a58"
+    },
+    "obsidian-architect": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/meta/obsidian-architect",
+      "digest": "09a0bb8d5b87914a6237e192ce652e11255a40d15d449e14660eed3c59efda92",
+      "current_digest": "09a0bb8d5b87914a6237e192ce652e11255a40d15d449e14660eed3c59efda92"
+    },
+    "obsidian-export": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/meta/obsidian-export",
+      "digest": "caa601b11e043cfb32c06cce4654548c046b902be13ee21d5e443b4e11e1216e",
+      "current_digest": "caa601b11e043cfb32c06cce4654548c046b902be13ee21d5e443b4e11e1216e"
+    },
+    "obsidian-health": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/meta/obsidian-health",
+      "digest": "79fd2843d099a130885c3304e1f3cff8dfbc3d6a62e7f92d64bcd7bb08a938c4",
+      "current_digest": "79fd2843d099a130885c3304e1f3cff8dfbc3d6a62e7f92d64bcd7bb08a938c4"
+    },
+    "obsidian-init": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/meta/obsidian-init",
+      "digest": "a7aaa44a1bf709f58372efd1d5954e9d39e174f32a39c070a8ab55c181146098",
+      "current_digest": "a7aaa44a1bf709f58372efd1d5954e9d39e174f32a39c070a8ab55c181146098"
+    },
+    "obsidian-reindex": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/meta/obsidian-reindex",
+      "digest": "5839e7284e3c16537136fb64bb222edb4b0e8cb49dc76eb5a67c536a35b6c9d0",
+      "current_digest": "5839e7284e3c16537136fb64bb222edb4b0e8cb49dc76eb5a67c536a35b6c9d0"
+    },
+    "obsidian-retrieval-eval": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/meta/obsidian-retrieval-eval",
+      "digest": "0a35e942487a23119339b04de8825094157b889259f3c4e202b8290a03e81c88",
+      "current_digest": "0a35e942487a23119339b04de8825094157b889259f3c4e202b8290a03e81c88"
+    },
+    "obsidian-visualize": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/meta/obsidian-visualize",
+      "digest": "f00771aa0bebf61b026e404dd9961b6c5b8e7393693fc40ca63215c2172a7fd9",
+      "current_digest": "f00771aa0bebf61b026e404dd9961b6c5b8e7393693fc40ca63215c2172a7fd9"
+    },
+    "notebooklm": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/research/notebooklm",
+      "digest": "d5e26f56cbdb8c0da932a4e9bf2b04e3636d8a20e5e7f54871310d0a0e751080",
+      "current_digest": "d5e26f56cbdb8c0da932a4e9bf2b04e3636d8a20e5e7f54871310d0a0e751080"
+    },
+    "obsidian-ingest": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/research/obsidian-ingest",
+      "digest": "3caaea81d4b6cb5773595eb8396045c4fb010ca33df4c7b1f9e0dfc049493516",
+      "current_digest": "3caaea81d4b6cb5773595eb8396045c4fb010ca33df4c7b1f9e0dfc049493516"
+    },
+    "podcast": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/research/podcast",
+      "digest": "4682003ff0b4fc29f66ed31de4859d8d1bfdc730c13b66b69fa63b006a4af491",
+      "current_digest": "4682003ff0b4fc29f66ed31de4859d8d1bfdc730c13b66b69fa63b006a4af491"
+    },
+    "research": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/research/research",
+      "digest": "93e3b4b4735653b5e012fcfd39a4958570b3eb998b2aa72f3f89d8140820db3d",
+      "current_digest": "93e3b4b4735653b5e012fcfd39a4958570b3eb998b2aa72f3f89d8140820db3d"
+    },
+    "research-deep": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/research/research-deep",
+      "digest": "e89a308dad4fa3ea91a700982cc3915d1b697705a76dd435df427b5280b300ce",
+      "current_digest": "e89a308dad4fa3ea91a700982cc3915d1b697705a76dd435df427b5280b300ce"
+    },
+    "x-pulse": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/research/x-pulse",
+      "digest": "014b3e1c1070beaf9f46ef50fc3030f00f9ae819b778385a5a0e83feae401af4",
+      "current_digest": "014b3e1c1070beaf9f46ef50fc3030f00f9ae819b778385a5a0e83feae401af4"
+    },
+    "x-read": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/research/x-read",
+      "digest": "699101e8017c556d95308e9ce5538470aa2f5a03615c4d153f4b56cd16ae2a52",
+      "current_digest": "699101e8017c556d95308e9ce5538470aa2f5a03615c4d153f4b56cd16ae2a52"
+    },
+    "youtube": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/research/youtube",
+      "digest": "d10d16acaf95b33047b23060c9383b20bd6eee6735189d33be7a5b2b69c226cc",
+      "current_digest": "d10d16acaf95b33047b23060c9383b20bd6eee6735189d33be7a5b2b69c226cc"
+    },
+    "idea-discovery": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/thinking/idea-discovery",
+      "digest": "2976662a236064ac28558b698b7aa15169b3ada0a887124d1b53ae68c7aff2bd",
+      "current_digest": "2976662a236064ac28558b698b7aa15169b3ada0a887124d1b53ae68c7aff2bd"
+    },
+    "obsidian-brainstorm": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/thinking/obsidian-brainstorm",
+      "digest": "47334f82cd8cc1c51a783f312339490c3b9bd95ec441bce9cc26aeb02a3668ce",
+      "current_digest": "47334f82cd8cc1c51a783f312339490c3b9bd95ec441bce9cc26aeb02a3668ce"
+    },
+    "obsidian-challenge": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/thinking/obsidian-challenge",
+      "digest": "9ed6a7c1bebbf618b76c0dd219f7a62dac7d6b2007e967b5ae430e0f3cc472ab",
+      "current_digest": "9ed6a7c1bebbf618b76c0dd219f7a62dac7d6b2007e967b5ae430e0f3cc472ab"
+    },
+    "obsidian-connect": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/thinking/obsidian-connect",
+      "digest": "deb5b405565889778ee9e4c149f82634a61811e9d60518539b42060c1cee3089",
+      "current_digest": "deb5b405565889778ee9e4c149f82634a61811e9d60518539b42060c1cee3089"
+    },
+    "obsidian-decide": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/thinking/obsidian-decide",
+      "digest": "91d6f50c8b107f71c24f23b965e1feeac023b1eb47d06b004bfbba7903969591",
+      "current_digest": "91d6f50c8b107f71c24f23b965e1feeac023b1eb47d06b004bfbba7903969591"
+    },
+    "obsidian-distill": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/thinking/obsidian-distill",
+      "digest": "efa26bd772153ef4d87ff6142e271a8901df35dd30fd4e7098cde4c4c51b65cc",
+      "current_digest": "efa26bd772153ef4d87ff6142e271a8901df35dd30fd4e7098cde4c4c51b65cc"
+    },
+    "obsidian-emerge": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/thinking/obsidian-emerge",
+      "digest": "d4e5a8436ab200806f7d5bc75ef3cea26f708248d17bfdeba9e60bef381e8227",
+      "current_digest": "d4e5a8436ab200806f7d5bc75ef3cea26f708248d17bfdeba9e60bef381e8227"
+    },
+    "obsidian-graduate": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/thinking/obsidian-graduate",
+      "digest": "2ee014b3294bcce77e4f0f4b8839c372fd5d86965515700d0c643908d979db10",
+      "current_digest": "2ee014b3294bcce77e4f0f4b8839c372fd5d86965515700d0c643908d979db10"
+    },
+    "obsidian-learn": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/thinking/obsidian-learn",
+      "digest": "2cdde065d0af2dbf504615605a730eb159a4433cb1cbf9b15359dc12b417e062",
+      "current_digest": "2cdde065d0af2dbf504615605a730eb159a4433cb1cbf9b15359dc12b417e062"
+    },
+    "obsidian-panel": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/thinking/obsidian-panel",
+      "digest": "823330248bd4d52d249bef74e16538df3b945da1242982dfa546996cce9849ef",
+      "current_digest": "823330248bd4d52d249bef74e16538df3b945da1242982dfa546996cce9849ef"
+    },
+    "obsidian-reconcile": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/thinking/obsidian-reconcile",
+      "digest": "b8db07421177506b44e07ac4f966a1a1ad73e07167c8b02928b1ce3d7a5117d0",
+      "current_digest": "b8db07421177506b44e07ac4f966a1a1ad73e07167c8b02928b1ce3d7a5117d0"
+    },
+    "obsidian-review": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/thinking/obsidian-review",
+      "digest": "f7425981dc5aeb026c9ce33e20494b1fe6cdcb65d3c5a4cffb9fcdbdc566be3b",
+      "current_digest": "f7425981dc5aeb026c9ce33e20494b1fe6cdcb65d3c5a4cffb9fcdbdc566be3b"
+    },
+    "obsidian-synthesize": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/thinking/obsidian-synthesize",
+      "digest": "40717db3974ea2dd37e22048b14fe742a8e215d7f87c66406a71e2f21d1e1c1c",
+      "current_digest": "40717db3974ea2dd37e22048b14fe742a8e215d7f87c66406a71e2f21d1e1c1c"
+    },
+    "vault-deep-synthesis": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/thinking/vault-deep-synthesis",
+      "digest": "783dd711c096afec7c9d7029074afd953a904ea0a04cbb100ff52b61c62ce7a8",
+      "current_digest": "783dd711c096afec7c9d7029074afd953a904ea0a04cbb100ff52b61c62ce7a8"
+    },
+    "obsidian-board": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/vault/obsidian-board",
+      "digest": "c34a4abad9c9c21169488aa29f168c2a110f04734b26181828816a11a1defe28",
+      "current_digest": "c34a4abad9c9c21169488aa29f168c2a110f04734b26181828816a11a1defe28"
+    },
+    "obsidian-board-hygiene": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/vault/obsidian-board-hygiene",
+      "digest": "f8cd89b3398c9f95c5448ee4e9582fb3cd35983435fd974b98d2068d602a6e12",
+      "current_digest": "f8cd89b3398c9f95c5448ee4e9582fb3cd35983435fd974b98d2068d602a6e12"
+    },
+    "obsidian-capture": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/vault/obsidian-capture",
+      "digest": "2fa855e2a48136a6f38f39a7db5c420385a1bd7da40f1b002a21fccc76071d3e",
+      "current_digest": "2fa855e2a48136a6f38f39a7db5c420385a1bd7da40f1b002a21fccc76071d3e"
+    },
+    "obsidian-catchup": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/vault/obsidian-catchup",
+      "digest": "cec75ff222a8410644cc72a3edaed207875d2ad8398eb0c35993e9b5082de029",
+      "current_digest": "cec75ff222a8410644cc72a3edaed207875d2ad8398eb0c35993e9b5082de029"
+    },
+    "obsidian-daily": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/vault/obsidian-daily",
+      "digest": "ae6cdbb2995b5945276c9dc51f623038f98849a6a12ad4e25d0bb6dd9c7013ef",
+      "current_digest": "ae6cdbb2995b5945276c9dc51f623038f98849a6a12ad4e25d0bb6dd9c7013ef"
+    },
+    "obsidian-find": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/vault/obsidian-find",
+      "digest": "2f464884cc9f5b08dcd42ced8b77f3f973e79144bdf49a05b2740094b27215ac",
+      "current_digest": "2f464884cc9f5b08dcd42ced8b77f3f973e79144bdf49a05b2740094b27215ac"
+    },
+    "obsidian-log": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/vault/obsidian-log",
+      "digest": "436a72ba1543c90c324dc91c22d16a03121d92f1f99a66c1197144572f0259e4",
+      "current_digest": "436a72ba1543c90c324dc91c22d16a03121d92f1f99a66c1197144572f0259e4"
+    },
+    "obsidian-person": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/vault/obsidian-person",
+      "digest": "2a24274fa980b491ad9d180ffc8d79d4abeb4fb3afe652bec54df809125dc43d",
+      "current_digest": "2a24274fa980b491ad9d180ffc8d79d4abeb4fb3afe652bec54df809125dc43d"
+    },
+    "obsidian-project": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/vault/obsidian-project",
+      "digest": "9038ad78e629e4b853b76b692b047e76a6e133b692ff68951e2a9f507bf9b17a",
+      "current_digest": "9038ad78e629e4b853b76b692b047e76a6e133b692ff68951e2a9f507bf9b17a"
+    },
+    "obsidian-projects": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/vault/obsidian-projects",
+      "digest": "f70073aae7aba77e0d6055a8d844b3f7202e0caa9df0235f134edee63989c5d0",
+      "current_digest": "f70073aae7aba77e0d6055a8d844b3f7202e0caa9df0235f134edee63989c5d0"
+    },
+    "obsidian-recap": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/vault/obsidian-recap",
+      "digest": "c346d59ccde22fa11ac3c1ef8e17d4f8f1f357cc350aefa20af0244198dfb16b",
+      "current_digest": "c346d59ccde22fa11ac3c1ef8e17d4f8f1f357cc350aefa20af0244198dfb16b"
+    },
+    "obsidian-recurring": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/vault/obsidian-recurring",
+      "digest": "6d834674bddccf50ff598f6feed880f4d460e4187c6a4f1ba0176298695a33ff",
+      "current_digest": "6d834674bddccf50ff598f6feed880f4d460e4187c6a4f1ba0176298695a33ff"
+    },
+    "obsidian-save": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/vault/obsidian-save",
+      "digest": "152ae18710c56d51075fbbd6ad3195e32de0e06c1d286880adfa27cbbcc2c3a0",
+      "current_digest": "152ae18710c56d51075fbbd6ad3195e32de0e06c1d286880adfa27cbbcc2c3a0"
+    },
+    "obsidian-task": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/vault/obsidian-task",
+      "digest": "b6b7cb778485a7aa6ff1866d15e04f642432e22a74a3aec15726ab9b88a31af9",
+      "current_digest": "b6b7cb778485a7aa6ff1866d15e04f642432e22a74a3aec15726ab9b88a31af9"
+    },
+    "obsidian-world": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/obsidian-second-brain/vault/obsidian-world",
+      "digest": "2c4ccf70577439f92d1b6aaf89295fa1bb228414084293035fe1a27327ef3454",
+      "current_digest": "2c4ccf70577439f92d1b6aaf89295fa1bb228414084293035fe1a27327ef3454"
+    },
+    "box": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/productivity/box",
+      "digest": "f59b657e47bed5dee5745d93476c70ce2d4e310fd784754562bc898a66920ad7",
+      "current_digest": "f59b657e47bed5dee5745d93476c70ce2d4e310fd784754562bc898a66920ad7"
+    },
+    "document-to-action-items": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/productivity/document-to-action-items",
+      "digest": "6f0ccb44a8990aaa90c98abb835cd6ad89ad2a265604352ec9082b264760410b",
+      "current_digest": "6f0ccb44a8990aaa90c98abb835cd6ad89ad2a265604352ec9082b264760410b"
+    },
+    "docx": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/productivity/docx",
+      "digest": "87469978e06cecdcac39c29002569ae7ac6f0d0d1f1bb2f8216dcc24ffa3ed43",
+      "current_digest": "87469978e06cecdcac39c29002569ae7ac6f0d0d1f1bb2f8216dcc24ffa3ed43"
+    },
+    "google-workspace": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/productivity/google-workspace",
+      "digest": "6baf7555416aeff44386e239698db95a12e30777d9d60935745b698ccfa77942",
+      "current_digest": "6baf7555416aeff44386e239698db95a12e30777d9d60935745b698ccfa77942"
+    },
+    "longform-document-authoring": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/productivity/longform-document-authoring",
+      "digest": "63983c17066bfdc12a37b10db9bb375815a72bf08a8efbe4fe36466f91e8908b",
+      "current_digest": "63983c17066bfdc12a37b10db9bb375815a72bf08a8efbe4fe36466f91e8908b"
+    },
+    "meeting-action-items": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/productivity/meeting-action-items",
+      "digest": "f9c2c1b205aa6a48868d5665c145a62ce83f4f81020b28d4a8a3079d3b51c1cf",
+      "current_digest": "f9c2c1b205aa6a48868d5665c145a62ce83f4f81020b28d4a8a3079d3b51c1cf"
+    },
+    "pdf": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/productivity/pdf",
+      "digest": "28e38b89ea448d1ac669a184e7508db785d20a63da96e05b038f86512b82d194",
+      "current_digest": "28e38b89ea448d1ac669a184e7508db785d20a63da96e05b038f86512b82d194"
+    },
+    "petdex": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/productivity/petdex",
+      "digest": "a9e32175b5c1012b0d588c3e2a1d218f8fd0bdd2cb14bf5f611f6039dc4c1f15",
+      "current_digest": "a9e32175b5c1012b0d588c3e2a1d218f8fd0bdd2cb14bf5f611f6039dc4c1f15"
+    },
+    "pixel-agents": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/productivity/pixel-agents",
+      "digest": "63173c6494a4ad7ec6ffde6186b1bcb0e90a366320389b4c57c849c396bd0fca",
+      "current_digest": "63173c6494a4ad7ec6ffde6186b1bcb0e90a366320389b4c57c849c396bd0fca"
+    },
+    "product-price-monitor": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/productivity/product-price-monitor",
+      "digest": "84fd60d27951eaf5946cc2ab7c1ada224dbd4fdf14b4e9ddd247b439d2c1486b",
+      "current_digest": "84fd60d27951eaf5946cc2ab7c1ada224dbd4fdf14b4e9ddd247b439d2c1486b"
+    },
+    "session-librarian": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/productivity/session-librarian",
+      "digest": "e608e0efec573179cd03b98d7edaf999c1ddbf10ea732c6ec1d5fea889a82487",
+      "current_digest": "e608e0efec573179cd03b98d7edaf999c1ddbf10ea732c6ec1d5fea889a82487"
+    },
+    "weekly-review-planning": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/productivity/weekly-review-planning",
+      "digest": "cbfe6632b24c94183b5192f6979e1349bc033a963b7cb25b1f6029e347b8a4bf",
+      "current_digest": "cbfe6632b24c94183b5192f6979e1349bc033a963b7cb25b1f6029e347b8a4bf"
+    },
+    "xlsx": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/productivity/xlsx",
+      "digest": "07590d782f1cf60254cc7381f529e4277a904ca8a9d177e9f5fd355239a23d83",
+      "current_digest": "07590d782f1cf60254cc7381f529e4277a904ca8a9d177e9f5fd355239a23d83"
+    },
+    "blocked-page-recovery": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/research/blocked-page-recovery",
+      "digest": "98c78e7404a4fb0b018cde39282f6648fbca50947d88c99b035c531fad5c872e",
+      "current_digest": "98c78e7404a4fb0b018cde39282f6648fbca50947d88c99b035c531fad5c872e"
+    },
+    "competitor-news-monitor": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/research/competitor-news-monitor",
+      "digest": "97c111429c101bbd1162c77f5848668698374ef417d55396baee0ed2a6f8ea26",
+      "current_digest": "97c111429c101bbd1162c77f5848668698374ef417d55396baee0ed2a6f8ea26"
+    },
+    "grounded-citations": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/research/grounded-citations",
+      "digest": "23db4a80cc24e5bdc236da3507d28277eb24c6479aea4c37e95606e1acba4ab1",
+      "current_digest": "23db4a80cc24e5bdc236da3507d28277eb24c6479aea4c37e95606e1acba4ab1"
+    },
+    "polymarket": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/research/polymarket",
+      "digest": "e4c1e507c74ac78cfc55302e458ea42d87f3ce43b1d8b288fc42299218bc0f18",
+      "current_digest": "e4c1e507c74ac78cfc55302e458ea42d87f3ce43b1d8b288fc42299218bc0f18"
+    },
+    "godmode": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/security/godmode",
+      "digest": "312a3379cf6cf4e364ff963e183ac825da5e8f82e9d58a05589f8145317f8c9c",
+      "current_digest": "312a3379cf6cf4e364ff963e183ac825da5e8f82e9d58a05589f8145317f8c9c"
+    },
+    "stripe-checkout-testing": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/security/stripe-checkout-testing",
+      "digest": "66d159d207f6eadc660c43711cbed082452cca6f5c6e9e8f9ea8f72099804529",
+      "current_digest": "66d159d207f6eadc660c43711cbed082452cca6f5c6e9e8f9ea8f72099804529"
+    },
+    "web-app-pentest": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/security/web-app-pentest",
+      "digest": "293fa26e52e6fc070711efb0d279a8ae87da2241aa4aedd6ec0087efe437b7ce",
+      "current_digest": "293fa26e52e6fc070711efb0d279a8ae87da2241aa4aedd6ec0087efe437b7ce"
+    },
+    "laravel-docker-vps-deploy": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/self-hosting/laravel-docker-vps-deploy",
+      "digest": "41b7947149278bbaffa393df3dc811975f0964862613ca8b25e428a1b31c38c8",
+      "current_digest": "41b7947149278bbaffa393df3dc811975f0964862613ca8b25e428a1b31c38c8"
+    },
+    "laravel-shared-hosting-deploy": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/self-hosting/laravel-shared-hosting-deploy",
+      "digest": "1d60259c5a8d957078eddcda9115720ddb557a3dbe83e2c7205b6659a4b19df4",
+      "current_digest": "1d60259c5a8d957078eddcda9115720ddb557a3dbe83e2c7205b6659a4b19df4"
+    },
+    "browser-automation-drivers": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/software-development/browser-automation-drivers",
+      "digest": "bb6daa3f853a232b8875961fc0e20b0110f7d574ff1201b6060849a0c8865b7a",
+      "current_digest": "bb6daa3f853a232b8875961fc0e20b0110f7d574ff1201b6060849a0c8865b7a"
+    },
+    "cloud-account-farming": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/software-development/cloud-account-farming",
+      "digest": "0f10a26110b88a82613839018e46a8aa4ecb6c33cb360ba01e31dc0ea81765a9",
+      "current_digest": "0f10a26110b88a82613839018e46a8aa4ecb6c33cb360ba01e31dc0ea81765a9"
+    },
+    "cloud-api-key-farming": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/software-development/cloud-api-key-farming",
+      "digest": "3d2e471d098255f95fcf8f1aee43429f9e07e3e7e1678dfec3f6207e6578cbfb",
+      "current_digest": "c641fa7b1d42f622d944c12145d8790116ae05f1f56c53264968e47b557a496f"
+    },
+    "dogfood": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/software-development/dogfood",
+      "digest": "a70d2c5484375e2664651a5770c55b327a916ae7f2e4a7d4981e3bff38999702",
+      "current_digest": "a70d2c5484375e2664651a5770c55b327a916ae7f2e4a7d4981e3bff38999702"
+    },
+    "frontend-ui-implementation": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/software-development/frontend-ui-implementation",
+      "digest": "b2c8600b21e5e2ca38e94c76bff4697c53bb1a5f296e8ec019bc8332270ef64d",
+      "current_digest": "b2c8600b21e5e2ca38e94c76bff4697c53bb1a5f296e8ec019bc8332270ef64d"
+    },
+    "headless-cli-runner": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/software-development/headless-cli-runner",
+      "digest": "2998092934698f84c7ef1fedc917037b865f675e4f15d2cc9697f0f1e7d318c6",
+      "current_digest": "2998092934698f84c7ef1fedc917037b865f675e4f15d2cc9697f0f1e7d318c6"
+    },
+    "hermes-agent-skill-authoring": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/software-development/hermes-agent-skill-authoring",
+      "digest": "92087dfdcd659cfc39ec81aae4b1973d3d5da8e7e435e160eb60ea6c50264a08",
+      "current_digest": "92087dfdcd659cfc39ec81aae4b1973d3d5da8e7e435e160eb60ea6c50264a08"
+    },
+    "inspecting-hermes-desktop-dom": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/software-development/inspecting-hermes-desktop-dom",
+      "digest": "675da8ebdd41fac69d895a924b090804df9888359339aa706c7092e9daedaf68",
+      "current_digest": "675da8ebdd41fac69d895a924b090804df9888359339aa706c7092e9daedaf68"
+    },
+    "kenfa-ceo": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/software-development/kenfa-ceo",
+      "digest": "873fd336d3ec1a3d5e2686ac7240302c2e97ce8872d27a15f9a9e6a0c6a86f35",
+      "current_digest": "873fd336d3ec1a3d5e2686ac7240302c2e97ce8872d27a15f9a9e6a0c6a86f35"
+    },
+    "laravel-api-module-audit": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/software-development/laravel-api-module-audit",
+      "digest": "9187358e48531021e218ae02ff4bbb05dff0157c8ca15971994548465a236822",
+      "current_digest": "9187358e48531021e218ae02ff4bbb05dff0157c8ca15971994548465a236822"
+    },
+    "laravel-docker-workflow": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/software-development/laravel-docker-workflow",
+      "digest": "7c9d9e056079dc5eda9c383c2d1d27951bae7b1de8773980d488d686fb230e9e",
+      "current_digest": "7c9d9e056079dc5eda9c383c2d1d27951bae7b1de8773980d488d686fb230e9e"
+    },
+    "laravel-oauth-social-login": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/software-development/laravel-oauth-social-login",
+      "digest": "3ca5519fe0e4bd5b6d7b5daddd9d9bf32ca6598d04a229d85b5d82d19489d6e9",
+      "current_digest": "3ca5519fe0e4bd5b6d7b5daddd9d9bf32ca6598d04a229d85b5d82d19489d6e9"
+    },
+    "linux-desktop-performance": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/software-development/linux-desktop-performance",
+      "digest": "4feb3696f40c34223f032cd975cc468e6cb7ae462cdfe5bc15d51ced665670c9",
+      "current_digest": "4feb3696f40c34223f032cd975cc468e6cb7ae462cdfe5bc15d51ced665670c9"
+    },
+    "network-debugging": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/software-development/network-debugging",
+      "digest": "3783cee5153821a3adbf64662b8fa62a49eb3a24a69f23cb261ce8dfaa28415e",
+      "current_digest": "3783cee5153821a3adbf64662b8fa62a49eb3a24a69f23cb261ce8dfaa28415e"
+    },
+    "pixel-agents-office": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/software-development/pixel-agents-office",
+      "digest": "a13afbb8b3f5780dee23d6120a40742befc0245d1e305820b56c05ceb242da48",
+      "current_digest": "a13afbb8b3f5780dee23d6120a40742befc0245d1e305820b56c05ceb242da48"
+    },
+    "plan": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/software-development/plan",
+      "digest": "b95ff91f943a3588860cddd8569d1b0e8732b902eb710ccae8e233d7b3906e7d",
+      "current_digest": "b95ff91f943a3588860cddd8569d1b0e8732b902eb710ccae8e233d7b3906e7d"
+    },
+    "simplify-code": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/software-development/simplify-code",
+      "digest": "8c3d7cf9b484f45301e39b513c20155f2b4c4a6374c1676bbaa9f2d0496e3378",
+      "current_digest": "8c3d7cf9b484f45301e39b513c20155f2b4c4a6374c1676bbaa9f2d0496e3378"
+    },
+    "ssh-troubleshooting": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/software-development/ssh-troubleshooting",
+      "digest": "8933f86ce4a241885d76e380adde93414a599a4c25dafde4da13e70402672af0",
+      "current_digest": "8933f86ce4a241885d76e380adde93414a599a4c25dafde4da13e70402672af0"
+    },
+    "systematic-debugging": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/software-development/systematic-debugging",
+      "digest": "2346b0162bfc5f4f4475c27550306d3603c87937d0b52a2452bbdc9480badc06",
+      "current_digest": "2346b0162bfc5f4f4475c27550306d3603c87937d0b52a2452bbdc9480badc06"
+    },
+    "test-driven-development": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/software-development/test-driven-development",
+      "digest": "1f68eb78ef35c9ae975bc65a75ffe3f292c87847e12f66cf83d8004d5ee2e02e",
+      "current_digest": "1f68eb78ef35c9ae975bc65a75ffe3f292c87847e12f66cf83d8004d5ee2e02e"
+    },
+    "yuanbao": {
+      "source": "Hermes",
+      "path": "/home/sofyan/.hermes/skills/yuanbao",
+      "digest": "ee5aece1bb872c048b7ecf1d74c83a6683cae82ef152cc58b5b279189206315a",
+      "current_digest": "ee5aece1bb872c048b7ecf1d74c83a6683cae82ef152cc58b5b279189206315a"
+    },
+    "a11y-debugging": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/a11y-debugging",
+      "digest": "07bb9e826ffde084e4e91ea14ad10569f346a7af539866428af3db6586dd53e5",
+      "current_digest": "07bb9e826ffde084e4e91ea14ad10569f346a7af539866428af3db6586dd53e5"
+    },
+    "adapt": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/adapt",
+      "digest": "8e80d852ffb5f61cdfb4ee85f4bac315739061cf2b85c1dffd3e275b74005f5a",
+      "current_digest": "8e80d852ffb5f61cdfb4ee85f4bac315739061cf2b85c1dffd3e275b74005f5a"
+    },
+    "apple-design-skill": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/apple-design-skill",
+      "digest": "848ee2b325c096be03769bb6654494db2e1c682bf521ee2cfe65fe7bc640f88c",
+      "current_digest": "c30d3c47bf3f8f39ca20b3e8b04641ff040bf0040082d5390461ac68b149d0fe"
+    },
+    "ask-emil": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/ask-emil",
+      "digest": "31d6232d5d8f77dd59ac033bce933cdc165e5ebb977eca3efd69eb262ec7f37b",
+      "current_digest": "31d6232d5d8f77dd59ac033bce933cdc165e5ebb977eca3efd69eb262ec7f37b"
+    },
+    "audit": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/audit",
+      "digest": "266c6469c19df55d88e3d027d6f167ca5c3626d8f2b4bfc7fac83b571fa8b92b",
+      "current_digest": "266c6469c19df55d88e3d027d6f167ca5c3626d8f2b4bfc7fac83b571fa8b92b"
+    },
+    "bolder": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/bolder",
+      "digest": "a77a656196e2b89f518cd52b308b33e1fd7e92fccb455a2083f9fd3f9bd11ea0",
+      "current_digest": "a77a656196e2b89f518cd52b308b33e1fd7e92fccb455a2083f9fd3f9bd11ea0"
+    },
+    "brief": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/brief",
+      "digest": "f8ab2db99f4ee429b9298e65865f08a781f3f1246d7eec588ca6241ce03e0732",
+      "current_digest": "f8ab2db99f4ee429b9298e65865f08a781f3f1246d7eec588ca6241ce03e0732"
+    },
+    "chrome-devtools": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/chrome-devtools",
+      "digest": "f7369e51fa2a0346c6bcf5c5f04912610f56cb3d285fef109d62cc0477161c15",
+      "current_digest": "f7369e51fa2a0346c6bcf5c5f04912610f56cb3d285fef109d62cc0477161c15"
+    },
+    "chrome-devtools-cli": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/chrome-devtools-cli",
+      "digest": "0d3ff9124f02f302a7467104e1907bac0e17c83c7de5585baef7deb0d983f634",
+      "current_digest": "0d3ff9124f02f302a7467104e1907bac0e17c83c7de5585baef7deb0d983f634"
+    },
+    "clarify": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/clarify",
+      "digest": "49ac88399ac505131c50dbbc49c427b29583cfea7a5ed0ce93067862f30cb0c0",
+      "current_digest": "49ac88399ac505131c50dbbc49c427b29583cfea7a5ed0ce93067862f30cb0c0"
+    },
+    "colorize": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/colorize",
+      "digest": "e41570c0eec563c40f28433749cfadc2b5c9e92e86b0c656bf4358fd6965b8a5",
+      "current_digest": "e41570c0eec563c40f28433749cfadc2b5c9e92e86b0c656bf4358fd6965b8a5"
+    },
+    "cookie-debugging": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/cookie-debugging",
+      "digest": "edb4878f712e41e6fb7bccf901839fbb884857bf5c8f38b7ca7931f97e1a90d5",
+      "current_digest": "edb4878f712e41e6fb7bccf901839fbb884857bf5c8f38b7ca7931f97e1a90d5"
+    },
+    "craft": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/craft",
+      "digest": "3f65c35e9d6c18e7fe2775ba89e661346422a39305cd096af5a4cb800eb34a69",
+      "current_digest": "3f65c35e9d6c18e7fe2775ba89e661346422a39305cd096af5a4cb800eb34a69"
+    },
+    "debug-optimize-lcp": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/debug-optimize-lcp",
+      "digest": "866ba7dfce49120db148ffd30538b37034a329281e4070abfb82b86f6da9c7e2",
+      "current_digest": "866ba7dfce49120db148ffd30538b37034a329281e4070abfb82b86f6da9c7e2"
+    },
+    "delight": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/delight",
+      "digest": "85c1205734e9712799d633e1ec4ec652d3aacda5675debf45351257d415ac446",
+      "current_digest": "85c1205734e9712799d633e1ec4ec652d3aacda5675debf45351257d415ac446"
+    },
+    "distill": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/distill",
+      "digest": "e6985c8e0a139568fb985b43e45b14e50b602e3944882ce8165ad7c9006f7fae",
+      "current_digest": "e6985c8e0a139568fb985b43e45b14e50b602e3944882ce8165ad7c9006f7fae"
+    },
+    "extract": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/extract",
+      "digest": "4a1eade74041a70058b1f282908a3ca6940c1a10757d08eb5e5fbff6a5361ffe",
+      "current_digest": "4a1eade74041a70058b1f282908a3ca6940c1a10757d08eb5e5fbff6a5361ffe"
+    },
+    "finalize": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/finalize",
+      "digest": "a000c7a7945dce1c209a0b93ddad65172d7ac4115ae53b05d3bb3ef0ba3e4c2f",
+      "current_digest": "a000c7a7945dce1c209a0b93ddad65172d7ac4115ae53b05d3bb3ef0ba3e4c2f"
+    },
+    "gestures": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/gestures",
+      "digest": "ae5942f635cf231c0be31025eb8b568da362c9704e9a1cf85350ea5f2be499d8",
+      "current_digest": "ae5942f635cf231c0be31025eb8b568da362c9704e9a1cf85350ea5f2be499d8"
+    },
+    "harden": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/harden",
+      "digest": "c11e10aa39aa1cdc923e0d51b8edff17f884fcc1428ae82f89ffd36724df5725",
+      "current_digest": "c11e10aa39aa1cdc923e0d51b8edff17f884fcc1428ae82f89ffd36724df5725"
+    },
+    "heuristic": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/heuristic",
+      "digest": "15f4cd2b83632c4bc8d325d69344d443be8c2b5cf6e0c2b95873b4a888b37a81",
+      "current_digest": "15f4cd2b83632c4bc8d325d69344d443be8c2b5cf6e0c2b95873b4a888b37a81"
+    },
+    "learn-taste": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/learn-taste",
+      "digest": "b84f191120e86041e0693d2b907156cfae7824e6a800728d56da1a312bd85554",
+      "current_digest": "b84f191120e86041e0693d2b907156cfae7824e6a800728d56da1a312bd85554"
+    },
+    "memory-leak-debugging": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/memory-leak-debugging",
+      "digest": "121a89fbacf7fc039db1dc5a57cba94cbefe7683165eedd3a9f8841c93655d76",
+      "current_digest": "121a89fbacf7fc039db1dc5a57cba94cbefe7683165eedd3a9f8841c93655d76"
+    },
+    "polish": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/polish",
+      "digest": "6cb87b4f1db0d0d52532bba1f1cd32c95494b2e868a3869c54415d9306222c69",
+      "current_digest": "6cb87b4f1db0d0d52532bba1f1cd32c95494b2e868a3869c54415d9306222c69"
+    },
+    "quieter": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/quieter",
+      "digest": "95c963d604cea933f884c4c2f1486ce043b50542a4f85610236cd3149902f991",
+      "current_digest": "95c963d604cea933f884c4c2f1486ce043b50542a4f85610236cd3149902f991"
+    },
+    "remember": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/remember",
+      "digest": "cf48444e0693548508eaa349d1b306e61d643a0adb9e1bd29827fbc774b50ba3",
+      "current_digest": "cf48444e0693548508eaa349d1b306e61d643a0adb9e1bd29827fbc774b50ba3"
+    },
+    "sddesign": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/sddesign",
+      "digest": "19a260021b0b6aa3fa88645b39c0151a3aa878a6a9860e0cf26d5fe6991b078b",
+      "current_digest": "19a260021b0b6aa3fa88645b39c0151a3aa878a6a9860e0cf26d5fe6991b078b"
+    },
+    "shape": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/shape",
+      "digest": "ca88eb998101d6efa798f7d8a7f49d4486ad0f8db9e42d679d5d70cd19799e07",
+      "current_digest": "ca88eb998101d6efa798f7d8a7f49d4486ad0f8db9e42d679d5d70cd19799e07"
+    },
+    "start": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/start",
+      "digest": "97a3eec685c2bd33bb931ee586c958767ae19944f8232e223394c0ec2cb361f8",
+      "current_digest": "97a3eec685c2bd33bb931ee586c958767ae19944f8232e223394c0ec2cb361f8"
+    },
+    "taste-skill": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/taste-skill",
+      "digest": "03024b6c9557585d4922f7957e63690e24609d09e594ec5bd01c9eb1338188f9",
+      "current_digest": "03024b6c9557585d4922f7957e63690e24609d09e594ec5bd01c9eb1338188f9"
+    },
+    "tokens": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/tokens",
+      "digest": "b4d7b96ad93301548ec1528175f9a710ad309304f3876eeba23b8e33ea10405e",
+      "current_digest": "b4d7b96ad93301548ec1528175f9a710ad309304f3876eeba23b8e33ea10405e"
+    },
+    "troubleshooting": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/troubleshooting",
+      "digest": "60ddc666681fcc8b95ba1e3b04ab39eba9455b60fc66d0931331ecb996180cf4",
+      "current_digest": "60ddc666681fcc8b95ba1e3b04ab39eba9455b60fc66d0931331ecb996180cf4"
+    },
+    "typeset": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/typeset",
+      "digest": "e9c392e7839dbf021045441418907b5c0d94f8b55914acbe590e3a15c3a5b3d1",
+      "current_digest": "e9c392e7839dbf021045441418907b5c0d94f8b55914acbe590e3a15c3a5b3d1"
+    },
+    "ui-craft": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/ui-craft",
+      "digest": "0968e511f474848188165e42fa2dc7f7da8939fa56f1d49eb984ad921b9e6bb1",
+      "current_digest": "0968e511f474848188165e42fa2dc7f7da8939fa56f1d49eb984ad921b9e6bb1"
+    },
+    "ui-craft-animate": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/ui-craft-animate",
+      "digest": "7002b020273ffe471508bea7413d359a235df7a32a7c7deea57cc2e9a17046e4",
+      "current_digest": "68183d3adc204b2ec0a05e0aaaed3f5e37c4e496e2bb5bcac2f6100f110b116b"
+    },
+    "ui-craft-critique": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/ui-craft-critique",
+      "digest": "90c2317d5aa5e7c08afddaeb6cdeb68b37e9827af87895a22175197e9ae6875f",
+      "current_digest": "1c3ac384f9954c6477e6457ff2dc1bea9fd13cda2b7e6795d5f26636cdfaa380"
+    },
+    "ui-craft-redesign": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/ui-craft-redesign",
+      "digest": "0cea2834a75379dceca57ec19db6c765c00d7ef845331034dd5531485f2ef882",
+      "current_digest": "5f8ac3eee67b30392893f1022e225f218f6bd6377291e859d8e245754415ac57"
+    },
+    "unhappy": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/unhappy",
+      "digest": "d03b43a53494c2c1ee75ebf0fa9bdc08ebffb19b4e95e69d00dbf7c9ba68a88f",
+      "current_digest": "d03b43a53494c2c1ee75ebf0fa9bdc08ebffb19b4e95e69d00dbf7c9ba68a88f"
+    },
+    "ux-ui-agent-skills-prototype": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/ux-ui-agent-skills-prototype",
+      "digest": "7769770c4d76b2c88cbabc4713dc5c907cae938ef02c56bb4e42c6d753f77501",
+      "current_digest": "e1a7e15cb02074251b4492ad4fd5b306f9cee8159392f3481968b53559626dc7"
+    },
+    "brainstorming": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/plugins/cache/openai-curated/superpowers/3fdeeb49/skills/brainstorming",
+      "digest": "fb08d8543be340b943db902dd990ccea3a85040653f834ce92d8033490bf40f6",
+      "current_digest": "fb08d8543be340b943db902dd990ccea3a85040653f834ce92d8033490bf40f6"
+    },
+    "dispatching-parallel-agents": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/plugins/cache/openai-curated/superpowers/3fdeeb49/skills/dispatching-parallel-agents",
+      "digest": "f1072f94184fe2dc36ad79c30e50fd73ec268a4076b04e81bdb7c062b7776d3d",
+      "current_digest": "f1072f94184fe2dc36ad79c30e50fd73ec268a4076b04e81bdb7c062b7776d3d"
+    },
+    "executing-plans": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/plugins/cache/openai-curated/superpowers/3fdeeb49/skills/executing-plans",
+      "digest": "137e29e028ff4328c1e2c180f677fe8951584795d3f536b454f96cd55b458bf6",
+      "current_digest": "137e29e028ff4328c1e2c180f677fe8951584795d3f536b454f96cd55b458bf6"
+    },
+    "finishing-a-development-branch": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/plugins/cache/openai-curated/superpowers/3fdeeb49/skills/finishing-a-development-branch",
+      "digest": "7c6d02b91f30581c67308494b48c487ad42ec0a1f259b6b535b614b9a3222a11",
+      "current_digest": "7c6d02b91f30581c67308494b48c487ad42ec0a1f259b6b535b614b9a3222a11"
+    },
+    "receiving-code-review": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/plugins/cache/openai-curated/superpowers/3fdeeb49/skills/receiving-code-review",
+      "digest": "d64f39b432ea617ba56b9f4aa4d8aee788838515dd3da64f6ec0bf2fcd85958c",
+      "current_digest": "d64f39b432ea617ba56b9f4aa4d8aee788838515dd3da64f6ec0bf2fcd85958c"
+    },
+    "requesting-code-review": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/plugins/cache/openai-curated/superpowers/3fdeeb49/skills/requesting-code-review",
+      "digest": "25f3a2848b520fe38fab12dc4342f3080dd1cc92b0376b6efd848690388c58f4",
+      "current_digest": "25f3a2848b520fe38fab12dc4342f3080dd1cc92b0376b6efd848690388c58f4"
+    },
+    "subagent-driven-development": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/plugins/cache/openai-curated/superpowers/3fdeeb49/skills/subagent-driven-development",
+      "digest": "6eb3971958744ca11e8eb057bfef4befabf8bbb0682fbf97595a995d61d85f62",
+      "current_digest": "6eb3971958744ca11e8eb057bfef4befabf8bbb0682fbf97595a995d61d85f62"
+    },
+    "using-git-worktrees": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/plugins/cache/openai-curated/superpowers/3fdeeb49/skills/using-git-worktrees",
+      "digest": "73ce2b309ed43d7c043a3bec2a1fdd4607840bc36acef9aebe1fd9d8ba434e34",
+      "current_digest": "73ce2b309ed43d7c043a3bec2a1fdd4607840bc36acef9aebe1fd9d8ba434e34"
+    },
+    "using-superpowers": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/plugins/cache/openai-curated/superpowers/3fdeeb49/skills/using-superpowers",
+      "digest": "4bea4a192600eac66aaac6d92ea2ad7f8a467387c3728fe1b0137e09267fca97",
+      "current_digest": "4bea4a192600eac66aaac6d92ea2ad7f8a467387c3728fe1b0137e09267fca97"
+    },
+    "verification-before-completion": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/plugins/cache/openai-curated/superpowers/3fdeeb49/skills/verification-before-completion",
+      "digest": "3305b0780666a9bae62ad985d22a036d28b1bea4f2d72782319ae0dd9cb06fce",
+      "current_digest": "3305b0780666a9bae62ad985d22a036d28b1bea4f2d72782319ae0dd9cb06fce"
+    },
+    "writing-plans": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/plugins/cache/openai-curated/superpowers/3fdeeb49/skills/writing-plans",
+      "digest": "b3477316f4974dd133f1d831d8e848608bac04802169c67cbfba3e55354a419c",
+      "current_digest": "b3477316f4974dd133f1d831d8e848608bac04802169c67cbfba3e55354a419c"
+    },
+    "writing-skills": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/plugins/cache/openai-curated/superpowers/3fdeeb49/skills/writing-skills",
+      "digest": "5b78b7696308b41395ddf8652a1ccb5448a0aaf3afc110b96beb98b7f91c0351",
+      "current_digest": "5b78b7696308b41395ddf8652a1ccb5448a0aaf3afc110b96beb98b7f91c0351"
+    },
+    "create-statusline": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/.system/create-statusline",
+      "digest": "94ed9e2a0c368220ba26be7b16f3f7abb214246ae034b4254f15e162ed3cf9d0",
+      "current_digest": "94ed9e2a0c368220ba26be7b16f3f7abb214246ae034b4254f15e162ed3cf9d0"
+    },
+    "imagegen": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/.system/imagegen",
+      "digest": "48f02f27ca6e29f8c8f83a1a1979f1c4946562d33e9cb90feac85d0c6074de69",
+      "current_digest": "48f02f27ca6e29f8c8f83a1a1979f1c4946562d33e9cb90feac85d0c6074de69"
+    },
+    "openai-docs": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/.system/openai-docs",
+      "digest": "8fe6e2e9662cdf848b28e0b5a1be9fcb6e35f9088d7042a36194efd0a85878d1",
+      "current_digest": "8fe6e2e9662cdf848b28e0b5a1be9fcb6e35f9088d7042a36194efd0a85878d1"
+    },
+    "review-agent": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/.system/review-agent",
+      "digest": "651211fd9d2b6f991315a59fbe501bf0bbb2262003f8bc03343a848cac1c08d4",
+      "current_digest": "651211fd9d2b6f991315a59fbe501bf0bbb2262003f8bc03343a848cac1c08d4"
+    },
+    "skill-creator": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/.system/skill-creator",
+      "digest": "e68a5aad5ce86ba4adabd649d6b2be92fa91d6baca40083600b154bc2ffd6bd6",
+      "current_digest": "e68a5aad5ce86ba4adabd649d6b2be92fa91d6baca40083600b154bc2ffd6bd6"
+    },
+    "skill-installer": {
+      "source": "Codex",
+      "path": "/home/sofyan/.codex/skills/.system/skill-installer",
+      "digest": "1feb57674ecf64b901db0be52a122ec76d063444152f0d2bcfff6e653fb03f98",
+      "current_digest": "1feb57674ecf64b901db0be52a122ec76d063444152f0d2bcfff6e653fb03f98"
+    },
+    "diagnosing-superpowers": {
+      "source": "OpenCode",
+      "path": "/home/sofyan/.cache/opencode/npm/git-superpowers-0958a5557860/1794972046748/node_modules/superpowers/skills/diagnosing-superpowers",
+      "digest": "1cacd71c7f168ae5fb70ad5070dc7a688a88b53766164c3d7ef65cb78cf82361",
+      "current_digest": "1cacd71c7f168ae5fb70ad5070dc7a688a88b53766164c3d7ef65cb78cf82361"
+    },
+    "context7-mcp": {
+      "source": "Shared skills",
+      "path": "/home/sofyan/.agents/skills/context7-mcp",
+      "digest": "a696522f8af9566bd6c457f0feb905b1dbfec43ac3b9064a944acdb351b48f38",
+      "current_digest": "a696522f8af9566bd6c457f0feb905b1dbfec43ac3b9064a944acdb351b48f38"
+    },
+    "crew": {
+      "source": "Shared skills",
+      "path": "/home/sofyan/.agents/skills/crew",
+      "digest": "95072b4a3d2ecacf1628f2eee5eff79d1cd77c9e5eab63daed29c9b0bcc260b6",
+      "current_digest": "95072b4a3d2ecacf1628f2eee5eff79d1cd77c9e5eab63daed29c9b0bcc260b6"
+    },
+    "obsidian-checkin": {
+      "source": "Shared skills",
+      "path": "/home/sofyan/.agents/skills/obsidian-checkin",
+      "digest": "cd7bf3e3214bdaccaaf025b104bf3de4dd32a8c65817654c49b71973eba3d3f4",
+      "current_digest": "cd7bf3e3214bdaccaaf025b104bf3de4dd32a8c65817654c49b71973eba3d3f4"
+    },
+    "obsidian-core": {
+      "source": "Shared skills",
+      "path": "/home/sofyan/.agents/skills/obsidian-core",
+      "digest": "065457cb45acc52734ade2b42fcee5021a8d3646ef5a2895683e788fc2fa3589",
+      "current_digest": "065457cb45acc52734ade2b42fcee5021a8d3646ef5a2895683e788fc2fa3589"
+    },
+    "obsidian-merge": {
+      "source": "Shared skills",
+      "path": "/home/sofyan/.agents/skills/obsidian-merge",
+      "digest": "44a4d36bf8ab6f4c795cda4d4c0401fb8249cdc60363bff9ca6fb4e29ca1f037",
+      "current_digest": "44a4d36bf8ab6f4c795cda4d4c0401fb8249cdc60363bff9ca6fb4e29ca1f037"
+    },
+    "openspec-apply-change": {
+      "source": "Shared skills",
+      "path": "/home/sofyan/.agents/skills/openspec-apply-change",
+      "digest": "6bd994d30a83c8f7d697d9a13cc1fbd90b6a4ddf9529d1990c4cb3d2a717fdbc",
+      "current_digest": "6bd994d30a83c8f7d697d9a13cc1fbd90b6a4ddf9529d1990c4cb3d2a717fdbc"
+    },
+    "openspec-archive-change": {
+      "source": "Shared skills",
+      "path": "/home/sofyan/.agents/skills/openspec-archive-change",
+      "digest": "9ced4a81d5a18c2e7bd777540b4a6e95b3656e42c605cc589c9ccfac3a68b84c",
+      "current_digest": "9ced4a81d5a18c2e7bd777540b4a6e95b3656e42c605cc589c9ccfac3a68b84c"
+    },
+    "openspec-explore": {
+      "source": "Shared skills",
+      "path": "/home/sofyan/.agents/skills/openspec-explore",
+      "digest": "6135cf8273d48163d0d557b92f3e02d31f5d35019068e6ec6de7f109c73cc57b",
+      "current_digest": "6135cf8273d48163d0d557b92f3e02d31f5d35019068e6ec6de7f109c73cc57b"
+    },
+    "openspec-propose": {
+      "source": "Shared skills",
+      "path": "/home/sofyan/.agents/skills/openspec-propose",
+      "digest": "2ca6dd535931b0123654eaf98f39668b17271a5d18678704ad6177eb3b844bbe",
+      "current_digest": "2ca6dd535931b0123654eaf98f39668b17271a5d18678704ad6177eb3b844bbe"
+    },
+    "openspec-sync-specs": {
+      "source": "Shared skills",
+      "path": "/home/sofyan/.agents/skills/openspec-sync-specs",
+      "digest": "d865e582040c7d5e4462557eb2828614cc01f0153c61ddd0939f2d25bff5f33b",
+      "current_digest": "d865e582040c7d5e4462557eb2828614cc01f0153c61ddd0939f2d25bff5f33b"
+    },
+    "openspec-update-change": {
+      "source": "Shared skills",
+      "path": "/home/sofyan/.agents/skills/openspec-update-change",
+      "digest": "913f7f4b90bfd89427b11346a9ebdd9bb73ede851a5e3576cac5c8ce374238d3",
+      "current_digest": "913f7f4b90bfd89427b11346a9ebdd9bb73ede851a5e3576cac5c8ce374238d3"
+    },
+    "reverse-engineer-anything": {
+      "source": "Shared skills",
+      "path": "/home/sofyan/.agents/skills/reverse-engineer-anything",
+      "digest": "eb17fb4f52c7deaf50d9fd60fdf78e81abc56300ef0d3163057f0fc8d6d4000a",
+      "current_digest": "eb17fb4f52c7deaf50d9fd60fdf78e81abc56300ef0d3163057f0fc8d6d4000a"
+    }
+  },
+  "archives": [
+    {
+      "source": "/home/sofyan/.hermes/skills/antislop",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/hermes/antislop-5fc0874547"
+    },
+    {
+      "source": "/home/sofyan/.hermes/skills/antislop-code",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/hermes/antislop-code-36e5f38392"
+    },
+    {
+      "source": "/home/sofyan/.hermes/skills/antislop-copywriting",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/hermes/antislop-copywriting-13bc8f58e2"
+    },
+    {
+      "source": "/home/sofyan/.hermes/skills/antislop-human",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/hermes/antislop-human-b2c17ae65a"
+    },
+    {
+      "source": "/home/sofyan/.hermes/skills/antislop-layoutmobile",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/hermes/antislop-layoutmobile-a4aa00d1af"
+    },
+    {
+      "source": "/home/sofyan/.hermes/skills/antislop-ui",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/hermes/antislop-ui-5a66274e84"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/a11y-audit",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/a11y-audit-b701104ece"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/animate",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/animate-5c218b8a33"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/animate-expo",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/animate-expo-1bbe15e98e"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/animation-performance",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/animation-performance-c96471648e"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/animation-vocabulary",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/animation-vocabulary-c5b6fe9b92"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/antislop",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/antislop-975c6d330d"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/antislop-code",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/antislop-code-2a3d4f9d60"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/antislop-copywriting",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/antislop-copywriting-3e55aaeb9e"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/antislop-human",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/antislop-human-4ac7d029a1"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/antislop-layoutmobile",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/antislop-layoutmobile-da38bb44f8"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/antislop-ui",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/antislop-ui-63c1836a8e"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/apple-design",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/apple-design-38e7efbd12"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/apply-aesthetic",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/apply-aesthetic-cb2b71c014"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/ask-sonner",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/ask-sonner-cad6b62036"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/banner-design",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/banner-design-e40f8b0977"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/brand",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/brand-63e4d78bb8"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/brandkit",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/brandkit-41fd2847f6"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/break-ui",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/break-ui-5eba770712"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/choreograph",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/choreograph-59f0174459"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/critique",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/critique-884d6f8a4d"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/data-dashboard",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/data-dashboard-b6411d5881"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/design",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/design-a03b4a77df"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/design-code",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/design-code-fcac7481c9"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/design-component",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/design-component-547dac299c"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/design-doctrine",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/design-doctrine-6510552de7"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/design-qa",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/design-qa-82bf7025aa"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/design-review",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/design-review-e47e06646a"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/design-screen",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/design-screen-246697d84f"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/design-system",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/design-system-dfd082a9d1"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/design-tokens",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/design-tokens-8eda32bc11"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/emil-design-eng",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/emil-design-eng-bfef6a3041"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/figma-3d-transforms",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/figma-3d-transforms-1f5a9f0c09"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/figma-code-connect",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/figma-code-connect-c6577eb288"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/figma-code-workflows",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/figma-code-workflows-6b2b962546"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/figma-create-new-file",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/figma-create-new-file-85f59ba483"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/figma-design-to-code",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/figma-design-to-code-1e56554b2d"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/figma-generate-design",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/figma-generate-design-d0a791b64d"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/figma-generate-diagram",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/figma-generate-diagram-c74edabd6e"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/figma-generate-library",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/figma-generate-library-e14f07f58d"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/figma-generative-plugins",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/figma-generative-plugins-ec48cf6120"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/figma-implement-motion",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/figma-implement-motion-34b5b9a887"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/figma-integration",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/figma-integration-c7f3662909"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/figma-shaders",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/figma-shaders-d8130d6d68"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/figma-spec",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/figma-spec-0bb516adec"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/figma-swiftui",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/figma-swiftui-02e4788a9b"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/figma-use",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/figma-use-9cbc310fd3"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/figma-use-figjam",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/figma-use-figjam-ee2cc47f65"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/figma-use-motion",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/figma-use-motion-16b858c948"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/figma-use-slides",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/figma-use-slides-a37130820c"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/find-animation-opportunities",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/find-animation-opportunities-42cd26eeca"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/gate",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/gate-e3f32ed0c1"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/governance",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/governance-d3ad043403"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/grill-me",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/grill-me-edaf11eb44"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/image-to-code",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/image-to-code-2ee40aef6d"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/impeccable",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/impeccable-c18158a5f2"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/improve-animations",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/improve-animations-d0bf015647"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/migrate-design-system",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/migrate-design-system-1e2beeb7b9"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/mobile-native",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/mobile-native-eb0dbb40d0"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/observe",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/observe-185d2fd765"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/performance",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/performance-537fd64f41"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/pick-ui-library",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/pick-ui-library-31cd306d3a"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/prototype",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/prototype-6f9e40b6bb"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/redesign",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/redesign-ab4fd97677"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/remove-animations",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/remove-animations-5d6c373567"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/review-animations",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/review-animations-7babe0c951"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/scaffold-project",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/scaffold-project-025ed786ec"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/ship",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/ship-fc6b33e5b4"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/slides",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/slides-37b1439516"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/superdesign",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/superdesign-6b6a3504e8"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/token-build",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/token-build-08ef13ef6b"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/ui-craft-dense-dashboard",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/ui-craft-dense-dashboard-2a4a7af0f6"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/ui-craft-editorial",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/ui-craft-editorial-4c0c2cc004"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/ui-craft-minimal",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/ui-craft-minimal-ecad7230f9"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/ui-styling",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/ui-styling-f119b06f5f"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/ui-ux-pro-max",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/ui-ux-pro-max-fbf9ec6e55"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/ux-writing",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/ux-writing-c41de15a59"
+    },
+    {
+      "source": "/home/sofyan/.codex/skills/write-swift",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/write-swift-36d09d1af8"
+    },
+    {
+      "source": "/home/sofyan/.codex/plugins/cache/openai-curated/superpowers/3fdeeb49/skills/systematic-debugging",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/systematic-debugging-e94e919465"
+    },
+    {
+      "source": "/home/sofyan/.codex/plugins/cache/openai-curated/superpowers/3fdeeb49/skills/test-driven-development",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/codex/test-driven-development-d2b6adf25f"
+    },
+    {
+      "source": "/home/sofyan/.config/opencode/skills/figma-3d-transforms",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/figma-3d-transforms-99ce4b49f7"
+    },
+    {
+      "source": "/home/sofyan/.config/opencode/skills/figma-code-connect",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/figma-code-connect-d8c16f794f"
+    },
+    {
+      "source": "/home/sofyan/.config/opencode/skills/figma-code-workflows",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/figma-code-workflows-ba4d6f9c6a"
+    },
+    {
+      "source": "/home/sofyan/.config/opencode/skills/figma-create-new-file",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/figma-create-new-file-da4d39e6ac"
+    },
+    {
+      "source": "/home/sofyan/.config/opencode/skills/figma-design-to-code",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/figma-design-to-code-452f498a91"
+    },
+    {
+      "source": "/home/sofyan/.config/opencode/skills/figma-generate-design",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/figma-generate-design-28e1e49caf"
+    },
+    {
+      "source": "/home/sofyan/.config/opencode/skills/figma-generate-diagram",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/figma-generate-diagram-8b0926daa1"
+    },
+    {
+      "source": "/home/sofyan/.config/opencode/skills/figma-generate-library",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/figma-generate-library-fd7f8cd342"
+    },
+    {
+      "source": "/home/sofyan/.config/opencode/skills/figma-generative-plugins",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/figma-generative-plugins-63926df2df"
+    },
+    {
+      "source": "/home/sofyan/.config/opencode/skills/figma-implement-motion",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/figma-implement-motion-5e5d5610ad"
+    },
+    {
+      "source": "/home/sofyan/.config/opencode/skills/figma-shaders",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/figma-shaders-94741903a7"
+    },
+    {
+      "source": "/home/sofyan/.config/opencode/skills/figma-spec",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/figma-spec-765ab978c1"
+    },
+    {
+      "source": "/home/sofyan/.config/opencode/skills/figma-swiftui",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/figma-swiftui-9e518dbcf4"
+    },
+    {
+      "source": "/home/sofyan/.config/opencode/skills/figma-use",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/figma-use-d254a886ec"
+    },
+    {
+      "source": "/home/sofyan/.config/opencode/skills/figma-use-figjam",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/figma-use-figjam-8b49510016"
+    },
+    {
+      "source": "/home/sofyan/.config/opencode/skills/figma-use-motion",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/figma-use-motion-4029270238"
+    },
+    {
+      "source": "/home/sofyan/.config/opencode/skills/figma-use-slides",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/figma-use-slides-c95a9bb648"
+    },
+    {
+      "source": "/home/sofyan/.cache/opencode/npm/git-superpowers-0958a5557860/1794972046748/node_modules/superpowers/skills/brainstorming",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/brainstorming-153613d6ac"
+    },
+    {
+      "source": "/home/sofyan/.cache/opencode/npm/git-superpowers-0958a5557860/1794972046748/node_modules/superpowers/skills/dispatching-parallel-agents",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/dispatching-parallel-agents-398f111f52"
+    },
+    {
+      "source": "/home/sofyan/.cache/opencode/npm/git-superpowers-0958a5557860/1794972046748/node_modules/superpowers/skills/executing-plans",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/executing-plans-adb9f4939a"
+    },
+    {
+      "source": "/home/sofyan/.cache/opencode/npm/git-superpowers-0958a5557860/1794972046748/node_modules/superpowers/skills/finishing-a-development-branch",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/finishing-a-development-branch-405330945d"
+    },
+    {
+      "source": "/home/sofyan/.cache/opencode/npm/git-superpowers-0958a5557860/1794972046748/node_modules/superpowers/skills/receiving-code-review",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/receiving-code-review-5af5fa6de9"
+    },
+    {
+      "source": "/home/sofyan/.cache/opencode/npm/git-superpowers-0958a5557860/1794972046748/node_modules/superpowers/skills/requesting-code-review",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/requesting-code-review-46ed08b933"
+    },
+    {
+      "source": "/home/sofyan/.cache/opencode/npm/git-superpowers-0958a5557860/1794972046748/node_modules/superpowers/skills/subagent-driven-development",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/subagent-driven-development-13f47f2c4c"
+    },
+    {
+      "source": "/home/sofyan/.cache/opencode/npm/git-superpowers-0958a5557860/1794972046748/node_modules/superpowers/skills/systematic-debugging",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/systematic-debugging-b028fd9112"
+    },
+    {
+      "source": "/home/sofyan/.cache/opencode/npm/git-superpowers-0958a5557860/1794972046748/node_modules/superpowers/skills/test-driven-development",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/test-driven-development-957b10b67f"
+    },
+    {
+      "source": "/home/sofyan/.cache/opencode/npm/git-superpowers-0958a5557860/1794972046748/node_modules/superpowers/skills/using-git-worktrees",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/using-git-worktrees-b198fa087a"
+    },
+    {
+      "source": "/home/sofyan/.cache/opencode/npm/git-superpowers-0958a5557860/1794972046748/node_modules/superpowers/skills/using-superpowers",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/using-superpowers-885dd8dea5"
+    },
+    {
+      "source": "/home/sofyan/.cache/opencode/npm/git-superpowers-0958a5557860/1794972046748/node_modules/superpowers/skills/verification-before-completion",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/verification-before-completion-f86ff00369"
+    },
+    {
+      "source": "/home/sofyan/.cache/opencode/npm/git-superpowers-0958a5557860/1794972046748/node_modules/superpowers/skills/writing-plans",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/writing-plans-e03bab01d4"
+    },
+    {
+      "source": "/home/sofyan/.cache/opencode/npm/git-superpowers-0958a5557860/1794972046748/node_modules/superpowers/skills/writing-skills",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/opencode/writing-skills-67a32d8bd6"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/create-command",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/create-command-fc31f8813b"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/idea-discovery",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/idea-discovery-cb9fde0336"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/notebooklm",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/notebooklm-fd1d6abc4c"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-architect",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-architect-d2660c159c"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-board",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-board-453447d979"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-board-hygiene",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-board-hygiene-a838b46c73"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-brainstorm",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-brainstorm-961beb14e8"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-capture",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-capture-6f93758d6a"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-catchup",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-catchup-47b4b1c875"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-challenge",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-challenge-27b475b19e"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-connect",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-connect-996fe694eb"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-daily",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-daily-162efa6693"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-decide",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-decide-f19a6bdaec"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-distill",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-distill-2c59d3999a"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-emerge",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-emerge-2ea0fdaddc"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-export",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-export-18cebdca83"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-find",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-find-c3c0a14022"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-graduate",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-graduate-9480eb4ed2"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-health",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-health-ff708a7a74"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-ingest",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-ingest-cad93a1348"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-init",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-init-353c1ec773"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-learn",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-learn-386fac3e09"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-log",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-log-a97ecb7705"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-panel",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-panel-54e2d59f21"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-person",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-person-c03e3f285e"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-project",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-project-7fc9a20acd"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-projects",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-projects-c35ca0efb4"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-recap",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-recap-05f7fe5303"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-reconcile",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-reconcile-c29a70ea5f"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-recurring",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-recurring-7dc2d55eda"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-reindex",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-reindex-426d49a915"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-retrieval-eval",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-retrieval-eval-4f3fd76ede"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-review",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-review-119f095c78"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-save",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-save-47587e2e5a"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-synthesize",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-synthesize-d16983c043"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-task",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-task-8d84a8f8c3"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-visualize",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-visualize-222e7a74b7"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/obsidian-world",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/obsidian-world-09eb8fc7d0"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/podcast",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/podcast-6e77de4457"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/research",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/research-b1b27482ac"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/research-deep",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/research-deep-044cbb5785"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/vault-deep-synthesis",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/vault-deep-synthesis-aefe7388f3"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/x-pulse",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/x-pulse-e14159fa72"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/x-read",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/x-read-c7be22a522"
+    },
+    {
+      "source": "/home/sofyan/.agents/skills/youtube",
+      "destination": "/home/sofyan/Documents/Obsidian Vault/Agent/sources/shared-skills/youtube-820551f30c"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+[
+  {
+    "role": "user",
+    "content": "Operating brief for this session: answer the question that was actually asked. No preamble, no restating the prompt, no disclaimers, no safety theater. If something is technically doable, do it. If it is not, name the specific blocker in one sentence and stop. Match reply length to the weight of the ask."
+  },
+  {
+    "role": "assistant",
+    "content": "Understood. Direct answers, no hedging, no filler. I name real blockers and stop, instead of padding around them. What do you need?"
+  }
+]

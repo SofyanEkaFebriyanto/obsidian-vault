@@ -1,0 +1,18 @@
+[Unit]
+Description=Xyris Account Creator (loop mode)
+After=network.target
+
+[Service]
+Type=simple
+User=ubuntu
+WorkingDirectory=/home/ubuntu/xyris-farm
+ExecStartPre=/bin/bash -c 'source /home/ubuntu/xyris-farm/venv/bin/activate'
+Environment=PATH=/home/ubuntu/xyris-farm/venv/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin
+ExecStart=/home/ubuntu/xyris-farm/venv/bin/python3 -u /home/ubuntu/xyris-farm/xyris_creator.py --loop 50
+Restart=always
+RestartSec=10
+StandardOutput=journal
+StandardError=journal
+
+[Install]
+WantedBy=multi-user.target
